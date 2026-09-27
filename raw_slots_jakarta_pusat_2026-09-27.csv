@@ -1347,13 +1347,9 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4643_12053_20:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-27,20:00 - 21:00,400000,Available
 4643_12053_21:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-27,21:00 - 22:00,400000,Available
 2079_4306_22:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-27,22:00 - 23:00,200000,Available
-2079_4306_23:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-27,23:00 - 00:00,200000,Available
 2079_5740_22:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-27,22:00 - 23:00,200000,Available
-2079_5740_23:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-27,23:00 - 00:00,200000,Available
 2079_5741_22:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-27,22:00 - 23:00,200000,Available
-2079_5741_23:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-27,23:00 - 00:00,200000,Available
 1401_2699_22:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-27,22:00 - 23:00,160000,Available
-1401_2699_23:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-27,23:00 - 00:00,160000,Available
 2712_6126_22:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-27,22:00 - 23:00,335000,Available
 2712_6629_22:00,2712,Royal Padel,6629,Balmoral Court,2026-09-27,22:00 - 23:00,335000,Available
 2712_6630_22:00,2712,Royal Padel,6630,Clifford Court,2026-09-27,22:00 - 23:00,335000,Available
@@ -1361,16 +1357,10 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3256_7813_22:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-27,22:00 - 23:00,200000,Available
 3256_9058_22:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-27,22:00 - 23:00,200000,Available
 2026_4300_22:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-27,22:00 - 23:00,200000,Available
-2026_4300_23:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-27,23:00 - 00:00,200000,Available
 2026_4410_22:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-27,22:00 - 23:00,80000,Available
-2026_4410_23:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-27,23:00 - 00:00,80000,Available
 2026_4411_22:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-27,22:00 - 23:00,80000,Available
-2026_4411_23:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-27,23:00 - 00:00,80000,Available
-2026_4412_23:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-27,23:00 - 00:00,80000,Available
 2619_5734_22:00,2619,Bara Padel Court,5734,Court 1,2026-09-27,22:00 - 23:00,119000,Available
-2619_5734_23:00,2619,Bara Padel Court,5734,Court 1,2026-09-27,23:00 - 00:00,119000,Available
 2619_7790_22:00,2619,Bara Padel Court,7790,Court 2,2026-09-27,22:00 - 23:00,119000,Available
-2619_7790_23:00,2619,Bara Padel Court,7790,Court 2,2026-09-27,23:00 - 00:00,119000,Available
 1725_3487_22:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-27,22:00 - 23:00,250000,Available
 1725_4804_22:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-27,22:00 - 23:00,250000,Available
 1725_4805_22:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-27,22:00 - 23:00,250000,Booked
@@ -1381,59 +1371,23 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3077_7208_22:00,3077,Padelyuk,7208,Vibora Court,2026-09-27,22:00 - 23:00,190000,Available
 3077_7209_22:00,3077,Padelyuk,7209,Bajada Court,2026-09-27,22:00 - 23:00,190000,Available
 1467_2920_22:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,22:00 - 22:30,192500,Available
-1467_2920_22:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,22:30 - 23:00,192500,Available
-1467_2920_23:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,23:00 - 23:30,192500,Available
-1467_2920_23:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,23:30 - 00:00,192500,Available
 1467_8945_22:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,22:00 - 22:30,192500,Available
-1467_8945_22:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,22:30 - 23:00,192500,Available
-1467_8945_23:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,23:00 - 23:30,192500,Available
-1467_8945_23:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,23:30 - 00:00,192500,Available
 1467_8946_22:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,22:00 - 22:30,192500,Available
-1467_8946_22:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,22:30 - 23:00,192500,Available
-1467_8946_23:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,23:00 - 23:30,192500,Available
-1467_8946_23:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,23:30 - 00:00,192500,Available
 1467_8947_22:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,22:00 - 22:30,192500,Available
-1467_8947_22:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,22:30 - 23:00,192500,Available
-1467_8947_23:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,23:00 - 23:30,192500,Available
-1467_8947_23:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,23:30 - 00:00,192500,Available
 1467_8949_22:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,22:00 - 22:30,192500,Available
-1467_8949_22:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,22:30 - 23:00,192500,Available
-1467_8949_23:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,23:00 - 23:30,192500,Available
-1467_8949_23:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,23:30 - 00:00,192500,Available
 1467_8950_22:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,22:00 - 22:30,192500,Available
-1467_8950_22:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,22:30 - 23:00,192500,Available
-1467_8950_23:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,23:00 - 23:30,192500,Available
-1467_8950_23:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,23:30 - 00:00,192500,Available
 1467_8951_22:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,22:00 - 22:30,192500,Available
-1467_8951_22:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,22:30 - 23:00,192500,Available
-1467_8951_23:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,23:00 - 23:30,192500,Available
-1467_8951_23:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,23:30 - 00:00,192500,Available
 1467_8952_22:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,22:00 - 22:30,192500,Available
-1467_8952_22:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,22:30 - 23:00,192500,Available
-1467_8952_23:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,23:00 - 23:30,192500,Available
-1467_8952_23:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,23:30 - 00:00,192500,Available
 1467_8953_22:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,22:00 - 22:30,192500,Available
-1467_8953_22:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,22:30 - 23:00,192500,Available
-1467_8953_23:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,23:00 - 23:30,192500,Available
-1467_8953_23:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,23:30 - 00:00,192500,Available
 2389_5026_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,BLIBLI COURT (Purple Court 1),2026-09-27,22:00 - 23:00,225000,Available
-2389_5026_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,BLIBLI COURT (Purple Court 1),2026-09-27,23:00 - 00:00,225000,Available
 2389_5042_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-27,22:00 - 23:00,225000,Available
-2389_5042_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-27,23:00 - 00:00,225000,Available
 2389_5043_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-27,22:00 - 23:00,225000,Available
-2389_5043_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-27,23:00 - 00:00,225000,Available
 2389_5044_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-27,22:00 - 23:00,225000,Available
-2389_5044_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-27,23:00 - 00:00,225000,Available
 1733_3491_22:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-27,22:00 - 23:00,200000,Available
-1733_3491_23:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-27,23:00 - 00:00,200000,Available
 1733_3811_22:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-27,22:00 - 23:00,200000,Booked
-1733_3811_23:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-27,23:00 - 00:00,200000,Available
 3155_7438_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-27,22:00 - 23:00,150000,Available
-3155_7438_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-27,23:00 - 00:00,150000,Booked
 3155_8605_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-27,22:00 - 23:00,150000,Available
-3155_8605_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-27,23:00 - 00:00,150000,Booked
 3155_8606_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-27,22:00 - 23:00,150000,Available
-3155_8606_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-27,23:00 - 00:00,150000,Booked
 3196_7550_22:00,3196,Padel Wise Club,7550,Court 1,2026-09-27,22:00 - 23:00,350000,Available
 3196_7569_22:00,3196,Padel Wise Club,7569,Court 2,2026-09-27,22:00 - 23:00,350000,Available
 3196_7585_22:00,3196,Padel Wise Club,7585,Court 3,2026-09-27,22:00 - 23:00,350000,Available
@@ -1447,3 +1401,49 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4643_12051_22:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-27,22:00 - 23:00,400000,Available
 4643_12052_22:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-27,22:00 - 23:00,400000,Available
 4643_12053_22:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-27,22:00 - 23:00,400000,Available
+2079_4306_23:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-27,23:00 - 00:00,200000,Available
+2079_5740_23:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-27,23:00 - 00:00,200000,Available
+2079_5741_23:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-27,23:00 - 00:00,200000,Available
+1401_2699_23:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-27,23:00 - 00:00,160000,Available
+2026_4300_23:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-27,23:00 - 00:00,200000,Available
+2026_4410_23:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-27,23:00 - 00:00,80000,Available
+2026_4411_23:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-27,23:00 - 00:00,80000,Available
+2026_4412_23:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-27,23:00 - 00:00,80000,Available
+2619_5734_23:00,2619,Bara Padel Court,5734,Court 1,2026-09-27,23:00 - 00:00,119000,Available
+2619_7790_23:00,2619,Bara Padel Court,7790,Court 2,2026-09-27,23:00 - 00:00,119000,Available
+1467_2920_22:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,22:30 - 23:00,192500,Available
+1467_2920_23:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,23:00 - 23:30,192500,Available
+1467_2920_23:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-27,23:30 - 00:00,192500,Available
+1467_8945_22:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,22:30 - 23:00,192500,Available
+1467_8945_23:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,23:00 - 23:30,192500,Available
+1467_8945_23:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-27,23:30 - 00:00,192500,Available
+1467_8946_22:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,22:30 - 23:00,192500,Available
+1467_8946_23:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,23:00 - 23:30,192500,Available
+1467_8946_23:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-27,23:30 - 00:00,192500,Available
+1467_8947_22:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,22:30 - 23:00,192500,Available
+1467_8947_23:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,23:00 - 23:30,192500,Available
+1467_8947_23:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-27,23:30 - 00:00,192500,Available
+1467_8949_22:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,22:30 - 23:00,192500,Available
+1467_8949_23:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,23:00 - 23:30,192500,Available
+1467_8949_23:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-27,23:30 - 00:00,192500,Available
+1467_8950_22:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,22:30 - 23:00,192500,Available
+1467_8950_23:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,23:00 - 23:30,192500,Available
+1467_8950_23:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-27,23:30 - 00:00,192500,Available
+1467_8951_22:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,22:30 - 23:00,192500,Available
+1467_8951_23:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,23:00 - 23:30,192500,Available
+1467_8951_23:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-27,23:30 - 00:00,192500,Available
+1467_8952_22:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,22:30 - 23:00,192500,Available
+1467_8952_23:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,23:00 - 23:30,192500,Available
+1467_8952_23:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-27,23:30 - 00:00,192500,Available
+1467_8953_22:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,22:30 - 23:00,192500,Available
+1467_8953_23:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,23:00 - 23:30,192500,Available
+1467_8953_23:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-27,23:30 - 00:00,192500,Available
+2389_5026_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,BLIBLI COURT (Purple Court 1),2026-09-27,23:00 - 00:00,225000,Available
+2389_5042_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-27,23:00 - 00:00,225000,Available
+2389_5043_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-27,23:00 - 00:00,225000,Available
+2389_5044_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-27,23:00 - 00:00,225000,Available
+1733_3491_23:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-27,23:00 - 00:00,200000,Available
+1733_3811_23:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-27,23:00 - 00:00,200000,Available
+3155_7438_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-27,23:00 - 00:00,150000,Booked
+3155_8605_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-27,23:00 - 00:00,150000,Booked
+3155_8606_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-27,23:00 - 00:00,150000,Booked
