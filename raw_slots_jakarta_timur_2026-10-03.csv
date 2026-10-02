@@ -1,4 +1,11 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,06:00 - 07:00,199999,Available
+2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,06:00 - 07:00,199999,Available
+2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-10-03,06:00 - 07:00,199999,Available
+209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,05:00 - 06:00,159000,Available
+209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
+209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
+209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
 3117_7369_07:00,3117,HDR Padel,7369,Court 1,2026-10-03,07:00 - 08:00,150000,Booked
 3117_7369_08:00,3117,HDR Padel,7369,Court 1,2026-10-03,08:00 - 09:00,150000,Booked
 3117_7369_09:00,3117,HDR Padel,7369,Court 1,2026-10-03,09:00 - 10:00,150000,Booked
@@ -35,8 +42,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3758_9284_07:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,07:00 - 08:00,135000,Booked
 3758_9284_08:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,08:00 - 09:00,135000,Booked
 3758_9284_09:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,09:00 - 10:00,135000,Available
-3758_9284_10:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,10:00 - 11:00,135000,Available
-3758_9284_11:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,11:00 - 12:00,135000,Available
+3758_9284_10:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,10:00 - 11:00,135000,Booked
+3758_9284_11:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,11:00 - 12:00,135000,Booked
 3758_9284_12:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,12:00 - 13:00,135000,Available
 3758_9284_13:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,13:00 - 14:00,135000,Available
 3758_9284_14:00,3758,ZAGO PADEL,9284,Court A,2026-10-03,14:00 - 15:00,135000,Booked
@@ -157,7 +164,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2701_6037_21:00,2701,Far East Padel - GROVES,6037,Court - Three,2026-10-03,21:00 - 22:00,199999,Available
 2701_6037_22:00,2701,Far East Padel - GROVES,6037,Court - Three,2026-10-03,22:00 - 23:00,199999,Available
 2701_6037_23:00,2701,Far East Padel - GROVES,6037,Court - Three,2026-10-03,23:00 - 00:00,199999,Available
-2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,06:00 - 07:00,199999,Available
 2274_6930_07:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,07:00 - 08:00,199999,Available
 2274_6930_08:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,08:00 - 09:00,199999,Booked
 2274_6930_09:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,09:00 - 10:00,199999,Booked
@@ -175,7 +181,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6930_21:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,21:00 - 22:00,199999,Available
 2274_6930_22:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,22:00 - 23:00,199999,Available
 2274_6930_23:00,2274,Far East Padel - HERO,6930,Court - One,2026-10-03,23:00 - 00:00,199999,Available
-2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,06:00 - 07:00,199999,Available
 2274_6933_07:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,07:00 - 08:00,199999,Booked
 2274_6933_08:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,08:00 - 09:00,199999,Booked
 2274_6933_09:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,09:00 - 10:00,199999,Booked
@@ -193,7 +198,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6933_21:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,21:00 - 22:00,199999,Available
 2274_6933_22:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,22:00 - 23:00,199999,Available
 2274_6933_23:00,2274,Far East Padel - HERO,6933,Court - Two,2026-10-03,23:00 - 00:00,199999,Available
-2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-10-03,06:00 - 07:00,199999,Available
 2274_6929_07:00,2274,Far East Padel - HERO,6929,Court - Three,2026-10-03,07:00 - 08:00,199999,Available
 2274_6929_08:00,2274,Far East Padel - HERO,6929,Court - Three,2026-10-03,08:00 - 09:00,199999,Booked
 2274_6929_09:00,2274,Far East Padel - HERO,6929,Court - Three,2026-10-03,09:00 - 10:00,199999,Booked
@@ -543,8 +547,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1726_3761_09:00,1726,Numa Padel,3761,Terra Court,2026-10-03,09:00 - 10:00,195000,Booked
 1726_3761_10:00,1726,Numa Padel,3761,Terra Court,2026-10-03,10:00 - 11:00,195000,Booked
 1726_3761_11:00,1726,Numa Padel,3761,Terra Court,2026-10-03,11:00 - 12:00,150000,Available
-1726_3761_12:00,1726,Numa Padel,3761,Terra Court,2026-10-03,12:00 - 13:00,150000,Available
-1726_3761_13:00,1726,Numa Padel,3761,Terra Court,2026-10-03,13:00 - 14:00,150000,Available
+1726_3761_12:00,1726,Numa Padel,3761,Terra Court,2026-10-03,12:00 - 13:00,150000,Booked
+1726_3761_13:00,1726,Numa Padel,3761,Terra Court,2026-10-03,13:00 - 14:00,150000,Booked
 1726_3761_14:00,1726,Numa Padel,3761,Terra Court,2026-10-03,14:00 - 15:00,150000,Available
 1726_3761_15:00,1726,Numa Padel,3761,Terra Court,2026-10-03,15:00 - 16:00,150000,Booked
 1726_3761_16:00,1726,Numa Padel,3761,Terra Court,2026-10-03,16:00 - 17:00,235000,Booked
@@ -768,7 +772,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2005_7711_21:00,2005,Uncle Padel Court,7711,Court Terra,2026-10-03,21:00 - 22:00,215000,Booked
 2005_7711_22:00,2005,Uncle Padel Court,7711,Court Terra,2026-10-03,22:00 - 23:00,215000,Booked
 2005_7711_23:00,2005,Uncle Padel Court,7711,Court Terra,2026-10-03,23:00 - 00:00,215000,Available
-209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,05:00 - 06:00,159000,Available
 209_240_06:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,06:00 - 07:00,159000,Available
 209_240_07:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,07:00 - 08:00,159000,Available
 209_240_08:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,08:00 - 09:00,159000,Booked
@@ -787,7 +790,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_240_21:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,21:00 - 22:00,159000,Available
 209_240_22:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,22:00 - 23:00,159000,Available
 209_240_23:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-10-03,23:00 - 00:00,159000,Available
-209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
 209_3705_06:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,06:00 - 07:00,159000,Available
 209_3705_07:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,07:00 - 08:00,159000,Available
 209_3705_08:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,08:00 - 09:00,159000,Booked
@@ -806,7 +808,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3705_21:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,21:00 - 22:00,159000,Available
 209_3705_22:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,22:00 - 23:00,159000,Available
 209_3705_23:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-10-03,23:00 - 00:00,159000,Available
-209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
 209_3706_06:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,06:00 - 07:00,159000,Available
 209_3706_07:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,07:00 - 08:00,159000,Available
 209_3706_08:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,08:00 - 09:00,159000,Booked
@@ -825,7 +826,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3706_21:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,21:00 - 22:00,159000,Available
 209_3706_22:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,22:00 - 23:00,159000,Available
 209_3706_23:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-10-03,23:00 - 00:00,159000,Available
-209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-10-03,05:00 - 06:00,159000,Available
 209_3707_06:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-10-03,06:00 - 07:00,159000,Available
 209_3707_07:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-10-03,07:00 - 08:00,159000,Available
 209_3707_08:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-10-03,08:00 - 09:00,159000,Booked
@@ -1330,7 +1330,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2550_6914_23:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6914,Court 2,2026-10-03,23:00 - 00:00,210000,Available
 2550_6915_06:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,06:00 - 07:00,210000,Available
 2550_6915_07:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,07:00 - 08:00,210000,Available
-2550_6915_08:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,08:00 - 09:00,210000,Available
+2550_6915_08:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,08:00 - 09:00,210000,Booked
 2550_6915_09:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,09:00 - 10:00,210000,Booked
 2550_6915_10:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,10:00 - 11:00,210000,Available
 2550_6915_11:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6915,Court 3,2026-10-03,11:00 - 12:00,210000,Available
@@ -1587,7 +1587,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2037_4213_17:00,2037,TIM Padel Club,4213,Court 1 - Blue,2026-10-03,17:00 - 18:00,150000,Booked
 2037_4213_18:00,2037,TIM Padel Club,4213,Court 1 - Blue,2026-10-03,18:00 - 19:00,150000,Booked
 2037_4213_19:00,2037,TIM Padel Club,4213,Court 1 - Blue,2026-10-03,19:00 - 20:00,150000,Booked
-2037_4214_07:00,2037,TIM Padel Club,4214,Court 2 - Terracota,2026-10-03,07:00 - 08:00,150000,Available
+2037_4214_07:00,2037,TIM Padel Club,4214,Court 2 - Terracota,2026-10-03,07:00 - 08:00,150000,Booked
 2037_4214_08:00,2037,TIM Padel Club,4214,Court 2 - Terracota,2026-10-03,08:00 - 09:00,150000,Booked
 2037_4214_09:00,2037,TIM Padel Club,4214,Court 2 - Terracota,2026-10-03,09:00 - 10:00,150000,Booked
 2037_4214_10:00,2037,TIM Padel Club,4214,Court 2 - Terracota,2026-10-03,10:00 - 11:00,150000,Booked
@@ -2295,7 +2295,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8964_23:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-10-03,23:00 - 00:00,350000,Available
 3606_8965_06:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,06:00 - 07:00,100000,Available
 3606_8965_07:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,07:00 - 08:00,100000,Available
-3606_8965_08:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,08:00 - 09:00,100000,Available
+3606_8965_08:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,08:00 - 09:00,100000,Booked
 3606_8965_09:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,09:00 - 10:00,100000,Available
 3606_8965_10:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,10:00 - 11:00,100000,Available
 3606_8965_11:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-10-03,11:00 - 12:00,100000,Available

@@ -1,5 +1,45 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_9398_05:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,05:00 - 06:00,285000,Available
+1006_1743_05:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,05:00 - 06:00,285000,Available
+1006_3071_05:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,05:00 - 06:00,170000,Booked
+1006_10445_05:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,05:00 - 06:00,175000,Booked
+1006_10446_05:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,05:00 - 06:00,175000,Booked
+1006_2082_05:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,05:00 - 06:00,176000,Available
+1006_2083_05:00,1006,Wins Arena - Kuningan,2083,Padel B - Green,2026-10-03,05:00 - 06:00,176000,Available
+1416_2855_06:00,1416,Dreamcourt Grafika Sport Arena Padel,2855,Grafika Sport Arena Padel,2026-10-03,06:00 - 07:00,125000,Available
+4415_11032_03:00,4415,Fork Padel,11032,Court F,2026-10-03,03:00 - 04:00,180000,Booked
+4415_11032_04:00,4415,Fork Padel,11032,Court F,2026-10-03,04:00 - 05:00,180000,Booked
+4415_11032_05:00,4415,Fork Padel,11032,Court F,2026-10-03,05:00 - 06:00,315000,Booked
+4415_11033_03:00,4415,Fork Padel,11033,Court O,2026-10-03,03:00 - 04:00,180000,Booked
+4415_11033_04:00,4415,Fork Padel,11033,Court O,2026-10-03,04:00 - 05:00,180000,Booked
+4415_11033_05:00,4415,Fork Padel,11033,Court O,2026-10-03,05:00 - 06:00,315000,Booked
+4415_11034_03:00,4415,Fork Padel,11034,Court R,2026-10-03,03:00 - 04:00,180000,Booked
+4415_11034_04:00,4415,Fork Padel,11034,Court R,2026-10-03,04:00 - 05:00,180000,Booked
+4415_11034_05:00,4415,Fork Padel,11034,Court R,2026-10-03,05:00 - 06:00,315000,Booked
+4415_11035_03:00,4415,Fork Padel,11035,Court K,2026-10-03,03:00 - 04:00,180000,Booked
+4415_11035_04:00,4415,Fork Padel,11035,Court K,2026-10-03,04:00 - 05:00,180000,Booked
+4415_11035_05:00,4415,Fork Padel,11035,Court K,2026-10-03,05:00 - 06:00,315000,Booked
+1513_7285_03:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,03:00 - 04:00,200000,Available
+1513_7285_04:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,04:00 - 05:00,200000,Available
+1513_7285_05:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,05:00 - 06:00,200000,Available
+1513_3044_03:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,03:00 - 04:00,200000,Available
+1513_3044_04:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,04:00 - 05:00,200000,Available
+1513_3044_05:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,05:00 - 06:00,200000,Available
+1513_3045_03:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,03:00 - 04:00,125000,Available
+1513_3045_04:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,04:00 - 05:00,125000,Available
+1513_3045_05:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,05:00 - 06:00,125000,Available
+1879_3829_03:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,03:00 - 04:00,165000,Booked
+1879_3829_04:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,04:00 - 05:00,165000,Available
+1879_3829_05:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,05:00 - 06:00,299000,Available
+1879_3830_03:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,03:00 - 04:00,165000,Booked
+1879_3830_04:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,04:00 - 05:00,165000,Available
+1879_3830_05:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,05:00 - 06:00,299000,Available
+1879_9487_03:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,03:00 - 04:00,20000,Available
+1879_9487_04:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,04:00 - 05:00,20000,Available
+1879_9487_05:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,05:00 - 06:00,35000,Available
+2798_6341_06:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,06:00 - 07:00,375000,Available
+2798_6342_06:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,06:00 - 07:00,375000,Available
+2798_6343_06:00,2798,Second Serve Padel,6343,Court 3,2026-10-03,06:00 - 07:00,375000,Available
 1006_9398_06:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,06:00 - 07:00,285000,Booked
 1006_9398_07:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,07:00 - 08:00,285000,Booked
 1006_9398_08:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,08:00 - 09:00,285000,Booked
@@ -18,7 +58,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_9398_21:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,21:00 - 22:00,285000,Booked
 1006_9398_22:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,22:00 - 23:00,285000,Available
 1006_9398_23:00,1006,Wins Arena - Kuningan,9398,Tennis Indoor - Aqua,2026-10-03,23:00 - 00:00,285000,Available
-1006_1743_05:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,05:00 - 06:00,285000,Available
 1006_1743_06:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,06:00 - 07:00,285000,Booked
 1006_1743_07:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,07:00 - 08:00,285000,Booked
 1006_1743_08:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,08:00 - 09:00,285000,Booked
@@ -37,7 +76,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_1743_21:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,21:00 - 22:00,285000,Booked
 1006_1743_22:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,22:00 - 23:00,285000,Available
 1006_1743_23:00,1006,Wins Arena - Kuningan,1743,Tennis Indoor - Mizone,2026-10-03,23:00 - 00:00,285000,Available
-1006_3071_05:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,05:00 - 06:00,170000,Booked
 1006_3071_06:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,06:00 - 07:00,170000,Booked
 1006_3071_07:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,07:00 - 08:00,170000,Booked
 1006_3071_08:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,08:00 - 09:00,170000,Booked
@@ -56,7 +94,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_3071_21:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,21:00 - 22:00,170000,Booked
 1006_3071_22:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,22:00 - 23:00,170000,Available
 1006_3071_23:00,1006,Wins Arena - Kuningan,3071,Tennis Outdoor - 1,2026-10-03,23:00 - 00:00,170000,Available
-1006_10445_05:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,05:00 - 06:00,175000,Booked
 1006_10445_06:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,06:00 - 07:00,175000,Booked
 1006_10445_07:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,07:00 - 08:00,175000,Booked
 1006_10445_08:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,08:00 - 09:00,175000,Booked
@@ -75,7 +112,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_10445_21:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,21:00 - 22:00,182500,Booked
 1006_10445_22:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,22:00 - 23:00,182500,Booked
 1006_10445_23:00,1006,Wins Arena - Kuningan,10445,Tennis Outdoor - 2,2026-10-03,23:00 - 00:00,182500,Available
-1006_10446_05:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,05:00 - 06:00,175000,Booked
 1006_10446_06:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,06:00 - 07:00,175000,Booked
 1006_10446_07:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,07:00 - 08:00,175000,Booked
 1006_10446_08:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,08:00 - 09:00,175000,Booked
@@ -94,7 +130,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_10446_21:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,21:00 - 22:00,182500,Booked
 1006_10446_22:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,22:00 - 23:00,182500,Available
 1006_10446_23:00,1006,Wins Arena - Kuningan,10446,Tennis Outdoor - 3,2026-10-03,23:00 - 00:00,182500,Available
-1006_2082_05:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,05:00 - 06:00,176000,Available
 1006_2082_06:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,06:00 - 07:00,176000,Available
 1006_2082_07:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,07:00 - 08:00,176000,Available
 1006_2082_08:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,08:00 - 09:00,176000,Booked
@@ -113,7 +148,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1006_2082_21:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,21:00 - 22:00,176000,Available
 1006_2082_22:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,22:00 - 23:00,176000,Available
 1006_2082_23:00,1006,Wins Arena - Kuningan,2082,Padel A - Purple,2026-10-03,23:00 - 00:00,176000,Available
-1006_2083_05:00,1006,Wins Arena - Kuningan,2083,Padel B - Green,2026-10-03,05:00 - 06:00,176000,Available
 1006_2083_06:00,1006,Wins Arena - Kuningan,2083,Padel B - Green,2026-10-03,06:00 - 07:00,176000,Available
 1006_2083_07:00,1006,Wins Arena - Kuningan,2083,Padel B - Green,2026-10-03,07:00 - 08:00,176000,Available
 1006_2083_08:00,1006,Wins Arena - Kuningan,2083,Padel B - Green,2026-10-03,08:00 - 09:00,176000,Booked
@@ -301,7 +335,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1649_3551_19:00,1649,Naya Padel,3551,Court 3,2026-10-03,19:00 - 20:00,280000,Available
 1649_3551_20:00,1649,Naya Padel,3551,Court 3,2026-10-03,20:00 - 21:00,280000,Available
 1649_3551_21:00,1649,Naya Padel,3551,Court 3,2026-10-03,21:00 - 22:00,280000,Available
-1416_2855_06:00,1416,Dreamcourt Grafika Sport Arena Padel,2855,Grafika Sport Arena Padel,2026-10-03,06:00 - 07:00,125000,Available
 1416_2855_07:00,1416,Dreamcourt Grafika Sport Arena Padel,2855,Grafika Sport Arena Padel,2026-10-03,07:00 - 08:00,125000,Available
 1416_2855_08:00,1416,Dreamcourt Grafika Sport Arena Padel,2855,Grafika Sport Arena Padel,2026-10-03,08:00 - 09:00,125000,Booked
 1416_2855_09:00,1416,Dreamcourt Grafika Sport Arena Padel,2855,Grafika Sport Arena Padel,2026-10-03,09:00 - 10:00,125000,Booked
@@ -862,9 +895,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3942_9687_21:00,3942,"Dome Padel, Tebet",9687,Court Blue,2026-10-03,21:00 - 22:00,200000,Available
 3942_9687_22:00,3942,"Dome Padel, Tebet",9687,Court Blue,2026-10-03,22:00 - 23:00,200000,Available
 3942_9687_23:00,3942,"Dome Padel, Tebet",9687,Court Blue,2026-10-03,23:00 - 00:00,200000,Available
-4415_11032_03:00,4415,Fork Padel,11032,Court F,2026-10-03,03:00 - 04:00,180000,Booked
-4415_11032_04:00,4415,Fork Padel,11032,Court F,2026-10-03,04:00 - 05:00,180000,Booked
-4415_11032_05:00,4415,Fork Padel,11032,Court F,2026-10-03,05:00 - 06:00,315000,Booked
 4415_11032_06:00,4415,Fork Padel,11032,Court F,2026-10-03,06:00 - 07:00,315000,Available
 4415_11032_07:00,4415,Fork Padel,11032,Court F,2026-10-03,07:00 - 08:00,315000,Available
 4415_11032_08:00,4415,Fork Padel,11032,Court F,2026-10-03,08:00 - 09:00,315000,Available
@@ -883,9 +913,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4415_11032_21:00,4415,Fork Padel,11032,Court F,2026-10-03,21:00 - 22:00,350000,Available
 4415_11032_22:00,4415,Fork Padel,11032,Court F,2026-10-03,22:00 - 23:00,350000,Available
 4415_11032_23:00,4415,Fork Padel,11032,Court F,2026-10-03,23:00 - 00:00,180000,Available
-4415_11033_03:00,4415,Fork Padel,11033,Court O,2026-10-03,03:00 - 04:00,180000,Booked
-4415_11033_04:00,4415,Fork Padel,11033,Court O,2026-10-03,04:00 - 05:00,180000,Booked
-4415_11033_05:00,4415,Fork Padel,11033,Court O,2026-10-03,05:00 - 06:00,315000,Booked
 4415_11033_06:00,4415,Fork Padel,11033,Court O,2026-10-03,06:00 - 07:00,315000,Available
 4415_11033_07:00,4415,Fork Padel,11033,Court O,2026-10-03,07:00 - 08:00,315000,Available
 4415_11033_08:00,4415,Fork Padel,11033,Court O,2026-10-03,08:00 - 09:00,315000,Available
@@ -904,9 +931,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4415_11033_21:00,4415,Fork Padel,11033,Court O,2026-10-03,21:00 - 22:00,350000,Available
 4415_11033_22:00,4415,Fork Padel,11033,Court O,2026-10-03,22:00 - 23:00,350000,Available
 4415_11033_23:00,4415,Fork Padel,11033,Court O,2026-10-03,23:00 - 00:00,180000,Available
-4415_11034_03:00,4415,Fork Padel,11034,Court R,2026-10-03,03:00 - 04:00,180000,Booked
-4415_11034_04:00,4415,Fork Padel,11034,Court R,2026-10-03,04:00 - 05:00,180000,Booked
-4415_11034_05:00,4415,Fork Padel,11034,Court R,2026-10-03,05:00 - 06:00,315000,Booked
 4415_11034_06:00,4415,Fork Padel,11034,Court R,2026-10-03,06:00 - 07:00,315000,Available
 4415_11034_07:00,4415,Fork Padel,11034,Court R,2026-10-03,07:00 - 08:00,315000,Available
 4415_11034_08:00,4415,Fork Padel,11034,Court R,2026-10-03,08:00 - 09:00,315000,Available
@@ -925,9 +949,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4415_11034_21:00,4415,Fork Padel,11034,Court R,2026-10-03,21:00 - 22:00,350000,Available
 4415_11034_22:00,4415,Fork Padel,11034,Court R,2026-10-03,22:00 - 23:00,350000,Available
 4415_11034_23:00,4415,Fork Padel,11034,Court R,2026-10-03,23:00 - 00:00,180000,Available
-4415_11035_03:00,4415,Fork Padel,11035,Court K,2026-10-03,03:00 - 04:00,180000,Booked
-4415_11035_04:00,4415,Fork Padel,11035,Court K,2026-10-03,04:00 - 05:00,180000,Booked
-4415_11035_05:00,4415,Fork Padel,11035,Court K,2026-10-03,05:00 - 06:00,315000,Booked
 4415_11035_06:00,4415,Fork Padel,11035,Court K,2026-10-03,06:00 - 07:00,315000,Available
 4415_11035_07:00,4415,Fork Padel,11035,Court K,2026-10-03,07:00 - 08:00,315000,Available
 4415_11035_08:00,4415,Fork Padel,11035,Court K,2026-10-03,08:00 - 09:00,315000,Available
@@ -3540,9 +3561,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3563_10882_19:00,3563,"Lifestyle Capital Club (LCC): Padel Court, Padel/Tennis/Golf Simulator, Cafe & Working Space",10882,VVIP Room Only,2026-10-03,19:00 - 20:00,500000,Available
 3563_10882_20:00,3563,"Lifestyle Capital Club (LCC): Padel Court, Padel/Tennis/Golf Simulator, Cafe & Working Space",10882,VVIP Room Only,2026-10-03,20:00 - 21:00,500000,Available
 3563_10882_21:00,3563,"Lifestyle Capital Club (LCC): Padel Court, Padel/Tennis/Golf Simulator, Cafe & Working Space",10882,VVIP Room Only,2026-10-03,21:00 - 22:00,500000,Available
-1513_7285_03:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,03:00 - 04:00,200000,Available
-1513_7285_04:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,04:00 - 05:00,200000,Available
-1513_7285_05:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,05:00 - 06:00,200000,Available
 1513_7285_06:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,06:00 - 08:00,450000,Available
 1513_7285_08:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,08:00 - 10:00,450000,Booked
 1513_7285_10:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,10:00 - 12:00,450000,Booked
@@ -3553,9 +3571,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1513_7285_20:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,20:00 - 22:00,750000,Booked
 1513_7285_22:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,22:00 - 23:00,200000,Available
 1513_7285_23:00,1513,911 Court Syndicate.jkt,7285,Court 1,2026-10-03,23:00 - 00:00,200000,Available
-1513_3044_03:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,03:00 - 04:00,200000,Available
-1513_3044_04:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,04:00 - 05:00,200000,Available
-1513_3044_05:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,05:00 - 06:00,200000,Available
 1513_3044_06:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,06:00 - 08:00,450000,Available
 1513_3044_08:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,08:00 - 10:00,450000,Available
 1513_3044_10:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,10:00 - 12:00,450000,Booked
@@ -3566,9 +3581,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1513_3044_20:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,20:00 - 22:00,750000,Available
 1513_3044_22:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,22:00 - 23:00,200000,Available
 1513_3044_23:00,1513,911 Court Syndicate.jkt,3044,Court 2,2026-10-03,23:00 - 00:00,200000,Available
-1513_3045_03:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,03:00 - 04:00,125000,Available
-1513_3045_04:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,04:00 - 05:00,125000,Available
-1513_3045_05:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,05:00 - 06:00,125000,Available
 1513_3045_06:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,06:00 - 07:00,125000,Available
 1513_3045_07:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,07:00 - 08:00,125000,Available
 1513_3045_08:00,1513,911 Court Syndicate.jkt,3045,Pickleball,2026-10-03,08:00 - 09:00,125000,Available
@@ -3921,9 +3933,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3524_8686_21:00,3524,All Play Kemang | Padel & Pickle,8686,Court 1 Pickle,2026-10-03,21:00 - 22:00,200000,Available
 3524_8686_22:00,3524,All Play Kemang | Padel & Pickle,8686,Court 1 Pickle,2026-10-03,22:00 - 23:00,200000,Available
 3524_8686_23:00,3524,All Play Kemang | Padel & Pickle,8686,Court 1 Pickle,2026-10-03,23:00 - 00:00,200000,Available
-1879_3829_03:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,03:00 - 04:00,165000,Booked
-1879_3829_04:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,04:00 - 05:00,165000,Available
-1879_3829_05:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,05:00 - 06:00,299000,Available
 1879_3829_06:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,06:00 - 07:00,385000,Available
 1879_3829_07:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,07:00 - 08:00,385000,Available
 1879_3829_08:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,08:00 - 09:00,385000,Available
@@ -3942,9 +3951,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1879_3829_21:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,21:00 - 22:00,385000,Available
 1879_3829_22:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,22:00 - 23:00,385000,Available
 1879_3829_23:00,1879,Padel Station By Vsports,3829,Trial Court 1,2026-10-03,23:00 - 00:00,385000,Available
-1879_3830_03:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,03:00 - 04:00,165000,Booked
-1879_3830_04:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,04:00 - 05:00,165000,Available
-1879_3830_05:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,05:00 - 06:00,299000,Available
 1879_3830_06:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,06:00 - 07:00,385000,Available
 1879_3830_07:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,07:00 - 08:00,385000,Available
 1879_3830_08:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,08:00 - 09:00,385000,Available
@@ -3963,9 +3969,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1879_3830_21:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,21:00 - 22:00,385000,Available
 1879_3830_22:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,22:00 - 23:00,385000,Available
 1879_3830_23:00,1879,Padel Station By Vsports,3830,Trial Court 2,2026-10-03,23:00 - 00:00,385000,Available
-1879_9487_03:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,03:00 - 04:00,20000,Available
-1879_9487_04:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,04:00 - 05:00,20000,Available
-1879_9487_05:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,05:00 - 06:00,35000,Available
 1879_9487_06:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,06:00 - 07:00,35000,Available
 1879_9487_07:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,07:00 - 08:00,35000,Available
 1879_9487_08:00,1879,Padel Station By Vsports,9487,Simple Court,2026-10-03,08:00 - 09:00,35000,Available
@@ -4119,7 +4122,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3824_9438_21:00,3824,4-Play Padel Simulator,9438,Court 4,2026-10-03,21:00 - 21:30,100000,Available
 3824_9438_21:30,3824,4-Play Padel Simulator,9438,Court 4,2026-10-03,21:30 - 22:00,100000,Available
 3824_9438_22:00,3824,4-Play Padel Simulator,9438,Court 4,2026-10-03,22:00 - 22:30,100000,Available
-2798_6341_06:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,06:00 - 07:00,375000,Available
 2798_6341_07:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,07:00 - 08:00,375000,Booked
 2798_6341_08:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,08:00 - 09:00,375000,Booked
 2798_6341_09:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,09:00 - 10:00,375000,Booked
@@ -4135,7 +4137,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2798_6341_19:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,19:00 - 20:00,375000,Available
 2798_6341_20:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,20:00 - 21:00,375000,Available
 2798_6341_21:00,2798,Second Serve Padel,6341,Court 1 - Court Only ( VIP Lounge charged separately),2026-10-03,21:00 - 22:00,375000,Available
-2798_6342_06:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,06:00 - 07:00,375000,Available
 2798_6342_07:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,07:00 - 08:00,375000,Booked
 2798_6342_08:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,08:00 - 09:00,375000,Booked
 2798_6342_09:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,09:00 - 10:00,375000,Booked
@@ -4151,7 +4152,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2798_6342_19:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,19:00 - 20:00,375000,Available
 2798_6342_20:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,20:00 - 21:00,375000,Available
 2798_6342_21:00,2798,Second Serve Padel,6342,Court 2,2026-10-03,21:00 - 22:00,375000,Available
-2798_6343_06:00,2798,Second Serve Padel,6343,Court 3,2026-10-03,06:00 - 07:00,375000,Available
 2798_6343_07:00,2798,Second Serve Padel,6343,Court 3,2026-10-03,07:00 - 08:00,375000,Booked
 2798_6343_08:00,2798,Second Serve Padel,6343,Court 3,2026-10-03,08:00 - 09:00,375000,Booked
 2798_6343_09:00,2798,Second Serve Padel,6343,Court 3,2026-10-03,09:00 - 10:00,375000,Booked

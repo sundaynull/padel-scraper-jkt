@@ -1,4 +1,28 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-03,03:00 - 04:00,1000000,Available
+1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-03,04:00 - 05:00,1000000,Available
+1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-03,05:00 - 06:00,1000000,Available
+1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-03,03:00 - 04:00,1000000,Available
+1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-03,04:00 - 05:00,1000000,Available
+1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-03,05:00 - 06:00,1000000,Available
+1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,03:00 - 04:00,180000,Available
+1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,04:00 - 05:00,180000,Available
+1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,05:00 - 06:00,180000,Available
+1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,03:00 - 04:00,180000,Available
+1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,04:00 - 05:00,180000,Available
+1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,05:00 - 06:00,180000,Available
+1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,03:00 - 04:00,180000,Available
+1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,04:00 - 05:00,180000,Available
+1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,05:00 - 06:00,180000,Available
+1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,03:00 - 04:00,180000,Available
+1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,04:00 - 05:00,180000,Available
+1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,05:00 - 06:00,180000,Available
+1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,03:00 - 04:00,180000,Booked
+1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,04:00 - 05:00,180000,Booked
+1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,05:00 - 06:00,180000,Booked
+1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,03:00 - 04:00,180000,Booked
+1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,04:00 - 05:00,180000,Booked
+1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,05:00 - 06:00,180000,Booked
 4411_11013_07:00,4411,Deuce Arena,11013,Padel Court A,2026-10-03,07:00 - 08:00,120000,Booked
 4411_11013_08:00,4411,Deuce Arena,11013,Padel Court A,2026-10-03,08:00 - 09:00,120000,Booked
 4411_11013_09:00,4411,Deuce Arena,11013,Padel Court A,2026-10-03,09:00 - 10:00,120000,Available
@@ -5005,9 +5029,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3351_13353_21:00,3351,DAAN MOGOT PADEL COURT,13353,Mahjong,2026-10-03,21:00 - 22:00,50000,Available
 3351_13353_22:00,3351,DAAN MOGOT PADEL COURT,13353,Mahjong,2026-10-03,22:00 - 23:00,50000,Available
 3351_13353_23:00,3351,DAAN MOGOT PADEL COURT,13353,Mahjong,2026-10-03,23:00 - 00:00,50000,Available
-1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-03,03:00 - 04:00,1000000,Available
-1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-03,04:00 - 05:00,1000000,Available
-1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-03,05:00 - 06:00,1000000,Available
 1064_1908_06:00,1064,Avion Sports Center,1908,Field A,2026-10-03,06:00 - 07:00,1000000,Available
 1064_1908_07:00,1064,Avion Sports Center,1908,Field A,2026-10-03,07:00 - 08:00,1000000,Available
 1064_1908_08:00,1064,Avion Sports Center,1908,Field A,2026-10-03,08:00 - 09:00,1000000,Available
@@ -5026,9 +5047,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1908_21:00,1064,Avion Sports Center,1908,Field A,2026-10-03,21:00 - 22:00,1000000,Booked
 1064_1908_22:00,1064,Avion Sports Center,1908,Field A,2026-10-03,22:00 - 23:00,1000000,Available
 1064_1908_23:00,1064,Avion Sports Center,1908,Field A,2026-10-03,23:00 - 00:00,1000000,Available
-1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-03,03:00 - 04:00,1000000,Available
-1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-03,04:00 - 05:00,1000000,Available
-1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-03,05:00 - 06:00,1000000,Available
 1064_2352_06:00,1064,Avion Sports Center,2352,Field B,2026-10-03,06:00 - 07:00,1000000,Available
 1064_2352_07:00,1064,Avion Sports Center,2352,Field B,2026-10-03,07:00 - 08:00,1000000,Available
 1064_2352_08:00,1064,Avion Sports Center,2352,Field B,2026-10-03,08:00 - 09:00,1000000,Available
@@ -5047,9 +5065,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2352_21:00,1064,Avion Sports Center,2352,Field B,2026-10-03,21:00 - 22:00,1000000,Booked
 1064_2352_22:00,1064,Avion Sports Center,2352,Field B,2026-10-03,22:00 - 23:00,1000000,Available
 1064_2352_23:00,1064,Avion Sports Center,2352,Field B,2026-10-03,23:00 - 00:00,1000000,Available
-1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,03:00 - 04:00,180000,Available
-1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,04:00 - 05:00,180000,Available
-1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,05:00 - 06:00,180000,Available
 1064_1885_06:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,06:00 - 07:00,200000,Available
 1064_1885_07:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,07:00 - 08:00,200000,Available
 1064_1885_08:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,08:00 - 09:00,300000,Available
@@ -5068,9 +5083,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1885_21:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,21:00 - 22:00,300000,Available
 1064_1885_22:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,22:00 - 23:00,250000,Available
 1064_1885_23:00,1064,Avion Sports Center,1885,Biru 1,2026-10-03,23:00 - 00:00,250000,Available
-1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,03:00 - 04:00,180000,Available
-1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,04:00 - 05:00,180000,Available
-1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,05:00 - 06:00,180000,Available
 1064_2354_06:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,06:00 - 07:00,200000,Available
 1064_2354_07:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,07:00 - 08:00,200000,Available
 1064_2354_08:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,08:00 - 09:00,300000,Available
@@ -5089,9 +5101,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2354_21:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,21:00 - 22:00,300000,Available
 1064_2354_22:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,22:00 - 23:00,250000,Available
 1064_2354_23:00,1064,Avion Sports Center,2354,Biru 2,2026-10-03,23:00 - 00:00,250000,Available
-1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,03:00 - 04:00,180000,Available
-1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,04:00 - 05:00,180000,Available
-1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,05:00 - 06:00,180000,Available
 1064_2355_06:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,06:00 - 07:00,200000,Available
 1064_2355_07:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,07:00 - 08:00,200000,Available
 1064_2355_08:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,08:00 - 09:00,300000,Available
@@ -5110,9 +5119,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2355_21:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,21:00 - 22:00,300000,Available
 1064_2355_22:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,22:00 - 23:00,250000,Available
 1064_2355_23:00,1064,Avion Sports Center,2355,Biru 3,2026-10-03,23:00 - 00:00,250000,Available
-1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,03:00 - 04:00,180000,Available
-1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,04:00 - 05:00,180000,Available
-1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,05:00 - 06:00,180000,Available
 1064_2356_06:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,06:00 - 07:00,200000,Available
 1064_2356_07:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,07:00 - 08:00,200000,Available
 1064_2356_08:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,08:00 - 09:00,300000,Available
@@ -5131,9 +5137,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2356_21:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,21:00 - 22:00,300000,Available
 1064_2356_22:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,22:00 - 23:00,250000,Available
 1064_2356_23:00,1064,Avion Sports Center,2356,Biru 4,2026-10-03,23:00 - 00:00,250000,Available
-1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,03:00 - 04:00,180000,Booked
-1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,04:00 - 05:00,180000,Booked
-1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,05:00 - 06:00,180000,Booked
 1064_1879_06:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,06:00 - 07:00,200000,Available
 1064_1879_07:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,07:00 - 08:00,200000,Available
 1064_1879_08:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,08:00 - 09:00,300000,Available
@@ -5152,9 +5155,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1879_21:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,21:00 - 22:00,300000,Available
 1064_1879_22:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,22:00 - 23:00,250000,Booked
 1064_1879_23:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-03,23:00 - 00:00,250000,Booked
-1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,03:00 - 04:00,180000,Booked
-1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,04:00 - 05:00,180000,Booked
-1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,05:00 - 06:00,180000,Booked
 1064_1880_06:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,06:00 - 07:00,200000,Available
 1064_1880_07:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,07:00 - 08:00,200000,Available
 1064_1880_08:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-03,08:00 - 09:00,300000,Available
@@ -5349,8 +5349,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2132_7323_20:00,2132,The Padel Point,7323,Court D,2026-10-03,20:00 - 21:00,150000,Booked
 2132_7323_21:00,2132,The Padel Point,7323,Court D,2026-10-03,21:00 - 22:00,150000,Booked
 2132_7323_22:00,2132,The Padel Point,7323,Court D,2026-10-03,22:00 - 23:00,150000,Available
-2235_4832_06:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,06:00 - 07:00,210000,Booked
-2235_4832_07:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,07:00 - 08:00,210000,Booked
+2235_4832_06:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,06:00 - 07:00,210000,Available
+2235_4832_07:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,07:00 - 08:00,210000,Available
 2235_4832_08:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,08:00 - 09:00,210000,Available
 2235_4832_09:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,09:00 - 10:00,210000,Available
 2235_4832_10:00,2235,Padre Padel Duri Kosambi,4832,Court 1 - Terracotta,2026-10-03,10:00 - 11:00,210000,Available
@@ -5630,8 +5630,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2318_4896_06:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,06:00 - 07:00,300000,Available
 2318_4896_07:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,07:00 - 08:00,300000,Available
 2318_4896_08:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,08:00 - 09:00,300000,Available
-2318_4896_09:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,09:00 - 10:00,300000,Available
-2318_4896_10:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,10:00 - 11:00,300000,Available
+2318_4896_09:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,09:00 - 10:00,300000,Booked
+2318_4896_10:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,10:00 - 11:00,300000,Booked
 2318_4896_11:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,11:00 - 12:00,300000,Available
 2318_4896_12:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,12:00 - 13:00,300000,Available
 2318_4896_13:00,2318,Vamos Arena Indonesia,4896,Boss Mobil Main Court,2026-10-03,13:00 - 14:00,300000,Available
