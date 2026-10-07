@@ -1,4 +1,13 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+1467_2920_05:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,05:30 - 06:00,192500,Available
+1467_8945_05:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,05:30 - 06:00,192500,Available
+1467_8946_05:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,05:30 - 06:00,192500,Available
+1467_8947_05:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,05:30 - 06:00,192500,Available
+1467_8949_05:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,05:30 - 06:00,192500,Available
+1467_8950_05:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,05:30 - 06:00,192500,Available
+1467_8951_05:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,05:30 - 06:00,192500,Available
+1467_8952_05:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,05:30 - 06:00,192500,Available
+1467_8953_05:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-10-08,05:30 - 06:00,192500,Available
 2079_4306_06:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-10-08,06:00 - 07:00,125000,Booked
 2079_4306_07:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-10-08,07:00 - 08:00,125000,Booked
 2079_4306_08:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-10-08,08:00 - 09:00,125000,Booked
@@ -476,7 +485,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3077_7209_20:00,3077,Padelyuk,7209,Bajada Court,2026-10-08,20:00 - 21:00,300000,Available
 3077_7209_21:00,3077,Padelyuk,7209,Bajada Court,2026-10-08,21:00 - 22:00,175000,Available
 3077_7209_22:00,3077,Padelyuk,7209,Bajada Court,2026-10-08,22:00 - 23:00,175000,Available
-1467_2920_05:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,05:30 - 06:00,192500,Available
 1467_2920_06:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,06:00 - 06:30,192500,Available
 1467_2920_06:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,06:30 - 07:00,192500,Available
 1467_2920_07:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,07:00 - 07:30,192500,Available
@@ -513,7 +521,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_2920_22:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,22:30 - 23:00,192500,Available
 1467_2920_23:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,23:00 - 23:30,192500,Available
 1467_2920_23:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-10-08,23:30 - 00:00,192500,Available
-1467_8945_05:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,05:30 - 06:00,192500,Available
 1467_8945_06:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,06:00 - 06:30,192500,Available
 1467_8945_06:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,06:30 - 07:00,192500,Available
 1467_8945_07:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,07:00 - 07:30,192500,Available
@@ -550,7 +557,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8945_22:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,22:30 - 23:00,192500,Available
 1467_8945_23:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,23:00 - 23:30,192500,Available
 1467_8945_23:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-10-08,23:30 - 00:00,192500,Available
-1467_8946_05:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,05:30 - 06:00,192500,Available
 1467_8946_06:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,06:00 - 06:30,192500,Available
 1467_8946_06:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,06:30 - 07:00,192500,Available
 1467_8946_07:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,07:00 - 07:30,192500,Available
@@ -587,7 +593,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8946_22:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,22:30 - 23:00,192500,Available
 1467_8946_23:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,23:00 - 23:30,192500,Available
 1467_8946_23:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-10-08,23:30 - 00:00,192500,Available
-1467_8947_05:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,05:30 - 06:00,192500,Available
 1467_8947_06:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,06:00 - 06:30,192500,Available
 1467_8947_06:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,06:30 - 07:00,192500,Available
 1467_8947_07:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,07:00 - 07:30,192500,Available
@@ -624,7 +629,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8947_22:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,22:30 - 23:00,192500,Available
 1467_8947_23:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,23:00 - 23:30,192500,Available
 1467_8947_23:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-10-08,23:30 - 00:00,192500,Available
-1467_8949_05:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,05:30 - 06:00,192500,Available
 1467_8949_06:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,06:00 - 06:30,192500,Available
 1467_8949_06:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,06:30 - 07:00,192500,Available
 1467_8949_07:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,07:00 - 07:30,192500,Available
@@ -661,7 +665,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8949_22:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,22:30 - 23:00,192500,Available
 1467_8949_23:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,23:00 - 23:30,192500,Available
 1467_8949_23:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-10-08,23:30 - 00:00,192500,Available
-1467_8950_05:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,05:30 - 06:00,192500,Available
 1467_8950_06:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,06:00 - 06:30,192500,Available
 1467_8950_06:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,06:30 - 07:00,192500,Available
 1467_8950_07:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,07:00 - 07:30,192500,Available
@@ -698,7 +701,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8950_22:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,22:30 - 23:00,192500,Booked
 1467_8950_23:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,23:00 - 23:30,192500,Booked
 1467_8950_23:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-10-08,23:30 - 00:00,192500,Available
-1467_8951_05:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,05:30 - 06:00,192500,Available
 1467_8951_06:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,06:00 - 06:30,192500,Available
 1467_8951_06:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,06:30 - 07:00,192500,Available
 1467_8951_07:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,07:00 - 07:30,192500,Available
@@ -735,7 +737,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8951_22:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,22:30 - 23:00,192500,Booked
 1467_8951_23:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,23:00 - 23:30,192500,Booked
 1467_8951_23:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-10-08,23:30 - 00:00,192500,Available
-1467_8952_05:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,05:30 - 06:00,192500,Available
 1467_8952_06:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,06:00 - 06:30,192500,Available
 1467_8952_06:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,06:30 - 07:00,192500,Available
 1467_8952_07:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,07:00 - 07:30,192500,Available
@@ -772,7 +773,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1467_8952_22:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,22:30 - 23:00,192500,Available
 1467_8952_23:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,23:00 - 23:30,192500,Available
 1467_8952_23:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-10-08,23:30 - 00:00,192500,Available
-1467_8953_05:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-10-08,05:30 - 06:00,192500,Available
 1467_8953_06:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-10-08,06:00 - 06:30,192500,Available
 1467_8953_06:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-10-08,06:30 - 07:00,192500,Available
 1467_8953_07:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-10-08,07:00 - 07:30,192500,Available
@@ -863,8 +863,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2389_5043_21:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-10-08,21:00 - 22:00,300000,Available
 2389_5043_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-10-08,22:00 - 23:00,250000,Available
 2389_5043_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-10-08,23:00 - 00:00,250000,Available
-2389_5044_06:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,06:00 - 07:00,225000,Available
-2389_5044_07:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,07:00 - 08:00,225000,Available
+2389_5044_06:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,06:00 - 07:00,225000,Booked
+2389_5044_07:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,07:00 - 08:00,225000,Booked
 2389_5044_08:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,08:00 - 09:00,225000,Available
 2389_5044_09:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,09:00 - 10:00,225000,Available
 2389_5044_10:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-10-08,10:00 - 11:00,225000,Available
