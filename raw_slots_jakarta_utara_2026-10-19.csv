@@ -1,4 +1,34 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+1281_2371_06:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,06:00 - 07:00,225000,Booked
+1281_2372_06:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,06:00 - 07:00,225000,Booked
+1281_2373_06:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,06:00 - 07:00,225000,Available
+1281_2374_06:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,06:00 - 07:00,350000,Booked
+1281_2375_06:00,1281,RacketGo Sunter,2375,Pink Padel,2026-10-19,06:00 - 07:00,350000,Booked
+1246_2254_01:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,01:00 - 02:00,150000,Available
+1246_2254_02:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,02:00 - 03:00,150000,Available
+1246_2254_03:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,03:00 - 04:00,150000,Available
+1246_2254_04:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,04:00 - 05:00,150000,Available
+1246_2254_05:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,05:00 - 06:00,150000,Available
+1246_2512_01:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,01:00 - 02:00,150000,Available
+1246_2512_02:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,02:00 - 03:00,150000,Available
+1246_2512_03:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,03:00 - 04:00,150000,Available
+1246_2512_04:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,04:00 - 05:00,150000,Available
+1246_2512_05:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,05:00 - 06:00,150000,Available
+1246_2253_01:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,01:00 - 02:00,350000,Available
+1246_2253_02:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,02:00 - 03:00,350000,Available
+1246_2253_03:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,03:00 - 04:00,350000,Available
+1246_2253_04:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,04:00 - 05:00,350000,Available
+1246_2253_05:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,05:00 - 06:00,350000,Available
+1246_12290_01:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,01:00 - 02:00,80000,Available
+1246_12290_02:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,02:00 - 03:00,80000,Available
+1246_12290_03:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,03:00 - 04:00,80000,Available
+1246_12290_04:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,04:00 - 05:00,80000,Available
+1246_12290_05:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,05:00 - 06:00,80000,Available
+1246_12291_01:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,01:00 - 02:00,80000,Available
+1246_12291_02:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,02:00 - 03:00,80000,Available
+1246_12291_03:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,03:00 - 04:00,80000,Available
+1246_12291_04:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,04:00 - 05:00,80000,Available
+1246_12291_05:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,05:00 - 06:00,80000,Available
 3193_7652_07:00,3193,Staple Social Club,7652,STAPLE SOCIAL CLUB,2026-10-19,07:00 - 08:00,175000,Available
 3193_7652_08:00,3193,Staple Social Club,7652,STAPLE SOCIAL CLUB,2026-10-19,08:00 - 09:00,175000,Available
 3193_7652_09:00,3193,Staple Social Club,7652,STAPLE SOCIAL CLUB,2026-10-19,09:00 - 10:00,175000,Available
@@ -49,7 +79,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4179_10313_21:00,4179,The Raquette Temple Sunter,10313,Padel Court,2026-10-19,21:00 - 22:00,250000,Available
 4179_10313_22:00,4179,The Raquette Temple Sunter,10313,Padel Court,2026-10-19,22:00 - 23:00,250000,Available
 4179_10313_23:00,4179,The Raquette Temple Sunter,10313,Padel Court,2026-10-19,23:00 - 00:00,250000,Available
-1281_2371_06:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,06:00 - 07:00,225000,Booked
 1281_2371_07:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,07:00 - 08:00,225000,Booked
 1281_2371_08:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,08:00 - 09:00,225000,Booked
 1281_2371_09:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,09:00 - 10:00,225000,Booked
@@ -64,7 +93,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1281_2371_18:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,18:00 - 20:00,560000,Booked
 1281_2371_20:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,20:00 - 22:00,560000,Booked
 1281_2371_22:00,1281,RacketGo Sunter,2371,Tennis Blue Court,2026-10-19,22:00 - 23:00,280000,Available
-1281_2372_06:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,06:00 - 07:00,225000,Booked
 1281_2372_07:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,07:00 - 08:00,225000,Booked
 1281_2372_08:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,08:00 - 09:00,225000,Booked
 1281_2372_09:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,09:00 - 10:00,225000,Booked
@@ -79,7 +107,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1281_2372_18:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,18:00 - 20:00,560000,Booked
 1281_2372_20:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,20:00 - 22:00,560000,Booked
 1281_2372_22:00,1281,RacketGo Sunter,2372,Tennis Purple Court,2026-10-19,22:00 - 23:00,280000,Available
-1281_2373_06:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,06:00 - 07:00,225000,Available
 1281_2373_07:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,07:00 - 08:00,225000,Booked
 1281_2373_08:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,08:00 - 09:00,225000,Booked
 1281_2373_09:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,09:00 - 10:00,225000,Booked
@@ -94,7 +121,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1281_2373_18:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,18:00 - 20:00,560000,Booked
 1281_2373_20:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,20:00 - 22:00,560000,Booked
 1281_2373_22:00,1281,RacketGo Sunter,2373,Tennis Orange Court,2026-10-19,22:00 - 23:00,280000,Available
-1281_2374_06:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,06:00 - 07:00,350000,Booked
 1281_2374_07:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,07:00 - 08:00,100000,Available
 1281_2374_08:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,08:00 - 09:00,100000,Available
 1281_2374_09:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,09:00 - 10:00,100000,Available
@@ -111,7 +137,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1281_2374_20:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,20:00 - 21:00,200000,Available
 1281_2374_21:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,21:00 - 22:00,200000,Available
 1281_2374_22:00,1281,RacketGo Sunter,2374,Yellow Padel,2026-10-19,22:00 - 23:00,350000,Booked
-1281_2375_06:00,1281,RacketGo Sunter,2375,Pink Padel,2026-10-19,06:00 - 07:00,350000,Booked
 1281_2375_07:00,1281,RacketGo Sunter,2375,Pink Padel,2026-10-19,07:00 - 08:00,100000,Available
 1281_2375_08:00,1281,RacketGo Sunter,2375,Pink Padel,2026-10-19,08:00 - 09:00,100000,Available
 1281_2375_09:00,1281,RacketGo Sunter,2375,Pink Padel,2026-10-19,09:00 - 10:00,100000,Available
@@ -651,8 +676,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1336_2496_18:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,18:00 - 19:00,195000,Booked
 1336_2496_19:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,19:00 - 20:00,195000,Booked
 1336_2496_20:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,20:00 - 21:00,195000,Booked
-1336_2496_21:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,21:00 - 22:00,195000,Available
-1336_2496_22:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,22:00 - 23:00,195000,Available
+1336_2496_21:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,21:00 - 22:00,195000,Booked
+1336_2496_22:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,22:00 - 23:00,195000,Booked
 1336_2496_23:00,1336,Olympus Prime Sports Center - Bandengan,2496,Tennis Outdoor 3,2026-10-19,23:00 - 00:00,195000,Available
 1336_2497_06:00,1336,Olympus Prime Sports Center - Bandengan,2497,Tennis Outdoor 4,2026-10-19,06:00 - 07:00,150000,Available
 1336_2497_07:00,1336,Olympus Prime Sports Center - Bandengan,2497,Tennis Outdoor 4,2026-10-19,07:00 - 08:00,150000,Available
@@ -3314,11 +3339,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2228_5843_20:00,2228,Garuda Padel Club,5843,Padel Court D,2026-10-19,20:00 - 21:00,275000,Available
 2228_5843_21:00,2228,Garuda Padel Club,5843,Padel Court D,2026-10-19,21:00 - 22:00,275000,Available
 2228_5843_22:00,2228,Garuda Padel Club,5843,Padel Court D,2026-10-19,22:00 - 23:00,175000,Available
-1246_2254_01:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,01:00 - 02:00,150000,Available
-1246_2254_02:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,02:00 - 03:00,150000,Available
-1246_2254_03:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,03:00 - 04:00,150000,Available
-1246_2254_04:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,04:00 - 05:00,150000,Available
-1246_2254_05:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,05:00 - 06:00,150000,Available
 1246_2254_06:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,06:00 - 07:00,150000,Available
 1246_2254_07:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,07:00 - 08:00,150000,Available
 1246_2254_08:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,08:00 - 09:00,150000,Available
@@ -3337,11 +3357,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1246_2254_21:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,21:00 - 22:00,250000,Available
 1246_2254_22:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,22:00 - 23:00,250000,Available
 1246_2254_23:00,1246,Gaskan Pendekar Arena,2254,Padel 1,2026-10-19,23:00 - 00:00,250000,Available
-1246_2512_01:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,01:00 - 02:00,150000,Available
-1246_2512_02:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,02:00 - 03:00,150000,Available
-1246_2512_03:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,03:00 - 04:00,150000,Available
-1246_2512_04:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,04:00 - 05:00,150000,Available
-1246_2512_05:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,05:00 - 06:00,150000,Available
 1246_2512_06:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,06:00 - 07:00,150000,Available
 1246_2512_07:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,07:00 - 08:00,150000,Available
 1246_2512_08:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,08:00 - 09:00,150000,Available
@@ -3360,11 +3375,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1246_2512_21:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,21:00 - 22:00,250000,Available
 1246_2512_22:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,22:00 - 23:00,250000,Available
 1246_2512_23:00,1246,Gaskan Pendekar Arena,2512,Padel 2,2026-10-19,23:00 - 00:00,250000,Available
-1246_2253_01:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,01:00 - 02:00,350000,Available
-1246_2253_02:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,02:00 - 03:00,350000,Available
-1246_2253_03:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,03:00 - 04:00,350000,Available
-1246_2253_04:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,04:00 - 05:00,350000,Available
-1246_2253_05:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,05:00 - 06:00,350000,Available
 1246_2253_06:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,06:00 - 07:00,350000,Available
 1246_2253_07:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,07:00 - 08:00,350000,Available
 1246_2253_08:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,08:00 - 09:00,350000,Available
@@ -3379,11 +3389,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1246_2253_18:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,18:00 - 20:00,2400000,Booked
 1246_2253_20:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,20:00 - 22:00,2400000,Booked
 1246_2253_22:00,1246,Gaskan Pendekar Arena,2253,Minisoccer,2026-10-19,22:00 - 00:00,1700000,Available
-1246_12290_01:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,01:00 - 02:00,80000,Available
-1246_12290_02:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,02:00 - 03:00,80000,Available
-1246_12290_03:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,03:00 - 04:00,80000,Available
-1246_12290_04:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,04:00 - 05:00,80000,Available
-1246_12290_05:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,05:00 - 06:00,80000,Available
 1246_12290_06:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,06:00 - 07:00,80000,Available
 1246_12290_07:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,07:00 - 08:00,80000,Available
 1246_12290_08:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,08:00 - 09:00,80000,Available
@@ -3402,11 +3407,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1246_12290_21:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,21:00 - 22:00,100000,Available
 1246_12290_22:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,22:00 - 23:00,100000,Available
 1246_12290_23:00,1246,Gaskan Pendekar Arena,12290,Mahjong 1,2026-10-19,23:00 - 00:00,100000,Available
-1246_12291_01:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,01:00 - 02:00,80000,Available
-1246_12291_02:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,02:00 - 03:00,80000,Available
-1246_12291_03:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,03:00 - 04:00,80000,Available
-1246_12291_04:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,04:00 - 05:00,80000,Available
-1246_12291_05:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,05:00 - 06:00,80000,Available
 1246_12291_06:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,06:00 - 07:00,80000,Available
 1246_12291_07:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,07:00 - 08:00,80000,Available
 1246_12291_08:00,1246,Gaskan Pendekar Arena,12291,Mahjong 2,2026-10-19,08:00 - 09:00,80000,Available

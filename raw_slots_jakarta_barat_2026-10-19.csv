@@ -1,4 +1,44 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+1064_1908_01:00,1064,Avion Sports Center,1908,Field A,2026-10-19,01:00 - 02:00,1000000,Available
+1064_1908_02:00,1064,Avion Sports Center,1908,Field A,2026-10-19,02:00 - 03:00,1000000,Available
+1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-19,03:00 - 04:00,1000000,Available
+1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-19,04:00 - 05:00,1000000,Available
+1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-19,05:00 - 06:00,1000000,Available
+1064_2352_01:00,1064,Avion Sports Center,2352,Field B,2026-10-19,01:00 - 02:00,1000000,Available
+1064_2352_02:00,1064,Avion Sports Center,2352,Field B,2026-10-19,02:00 - 03:00,1000000,Available
+1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-19,03:00 - 04:00,1000000,Available
+1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-19,04:00 - 05:00,1000000,Available
+1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-19,05:00 - 06:00,1000000,Available
+1064_1885_01:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,01:00 - 02:00,180000,Available
+1064_1885_02:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,02:00 - 03:00,180000,Available
+1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,03:00 - 04:00,180000,Available
+1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,04:00 - 05:00,180000,Available
+1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,05:00 - 06:00,180000,Available
+1064_2354_01:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,01:00 - 02:00,180000,Available
+1064_2354_02:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,02:00 - 03:00,180000,Available
+1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,03:00 - 04:00,180000,Available
+1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,04:00 - 05:00,180000,Available
+1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,05:00 - 06:00,180000,Available
+1064_2355_01:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,01:00 - 02:00,180000,Available
+1064_2355_02:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,02:00 - 03:00,180000,Available
+1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,03:00 - 04:00,180000,Available
+1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,04:00 - 05:00,180000,Available
+1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,05:00 - 06:00,180000,Available
+1064_2356_01:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,01:00 - 02:00,180000,Available
+1064_2356_02:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,02:00 - 03:00,180000,Available
+1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,03:00 - 04:00,180000,Available
+1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,04:00 - 05:00,180000,Available
+1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,05:00 - 06:00,180000,Available
+1064_1879_01:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,01:00 - 02:00,180000,Booked
+1064_1879_02:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,02:00 - 03:00,180000,Booked
+1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,03:00 - 04:00,180000,Booked
+1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,04:00 - 05:00,180000,Booked
+1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,05:00 - 06:00,180000,Booked
+1064_1880_01:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,01:00 - 02:00,180000,Booked
+1064_1880_02:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,02:00 - 03:00,180000,Booked
+1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,03:00 - 04:00,180000,Booked
+1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,04:00 - 05:00,180000,Booked
+1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,05:00 - 06:00,180000,Booked
 3064_7631_06:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,06:00 - 07:00,99000,Available
 3064_7631_07:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,07:00 - 08:00,99000,Available
 3064_7631_08:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,08:00 - 09:00,99000,Available
@@ -6,10 +46,10 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3064_7631_10:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,10:00 - 11:00,99000,Available
 3064_7631_11:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,11:00 - 12:00,99000,Available
 3064_7631_12:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,12:00 - 13:00,99000,Available
-3064_7631_13:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,13:00 - 14:00,99000,Available
-3064_7631_14:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,14:00 - 15:00,99000,Available
-3064_7631_15:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,15:00 - 16:00,99000,Available
-3064_7631_16:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,16:00 - 17:00,99000,Available
+3064_7631_13:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,13:00 - 14:00,99000,Booked
+3064_7631_14:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,14:00 - 15:00,99000,Booked
+3064_7631_15:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,15:00 - 16:00,99000,Booked
+3064_7631_16:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,16:00 - 17:00,99000,Booked
 3064_7631_17:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,17:00 - 18:00,99000,Available
 3064_7631_18:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,18:00 - 19:00,188000,Available
 3064_7631_19:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-19,19:00 - 20:00,188000,Booked
@@ -845,8 +885,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2906_6677_15:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,15:00 - 16:00,100000,Available
 2906_6677_16:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,16:00 - 17:00,100000,Available
 2906_6677_17:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,17:00 - 18:00,100000,Available
-2906_6677_18:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,18:00 - 19:00,170000,Available
-2906_6677_19:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,19:00 - 20:00,170000,Available
+2906_6677_18:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,18:00 - 19:00,170000,Booked
+2906_6677_19:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,19:00 - 20:00,170000,Booked
 2906_6677_20:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,20:00 - 22:00,380000,Booked
 2906_6677_22:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,22:00 - 23:00,90000,Available
 2906_6677_23:00,2906,Padel Quarter,6677,Elite Court,2026-10-19,23:00 - 00:00,90000,Available
@@ -862,8 +902,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2906_6678_15:00,2906,Padel Quarter,6678,Court 1,2026-10-19,15:00 - 16:00,90000,Booked
 2906_6678_16:00,2906,Padel Quarter,6678,Court 1,2026-10-19,16:00 - 17:00,90000,Available
 2906_6678_17:00,2906,Padel Quarter,6678,Court 1,2026-10-19,17:00 - 18:00,90000,Available
-2906_6678_18:00,2906,Padel Quarter,6678,Court 1,2026-10-19,18:00 - 19:00,160000,Available
-2906_6678_19:00,2906,Padel Quarter,6678,Court 1,2026-10-19,19:00 - 20:00,160000,Available
+2906_6678_18:00,2906,Padel Quarter,6678,Court 1,2026-10-19,18:00 - 19:00,160000,Booked
+2906_6678_19:00,2906,Padel Quarter,6678,Court 1,2026-10-19,19:00 - 20:00,160000,Booked
 2906_6678_20:00,2906,Padel Quarter,6678,Court 1,2026-10-19,20:00 - 22:00,360000,Booked
 2906_6678_22:00,2906,Padel Quarter,6678,Court 1,2026-10-19,22:00 - 23:00,80000,Available
 2906_6678_23:00,2906,Padel Quarter,6678,Court 1,2026-10-19,23:00 - 00:00,80000,Available
@@ -2303,9 +2343,9 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2246_5096_08:00,2246,Padeloo,5096,Court 1,2026-10-19,08:00 - 09:00,150000,Booked
 2246_5096_09:00,2246,Padeloo,5096,Court 1,2026-10-19,09:00 - 10:00,150000,Booked
 2246_5096_10:00,2246,Padeloo,5096,Court 1,2026-10-19,10:00 - 11:00,150000,Booked
-2246_5096_11:00,2246,Padeloo,5096,Court 1,2026-10-19,11:00 - 12:00,125000,Available
-2246_5096_12:00,2246,Padeloo,5096,Court 1,2026-10-19,12:00 - 13:00,125000,Available
-2246_5096_13:00,2246,Padeloo,5096,Court 1,2026-10-19,13:00 - 14:00,125000,Available
+2246_5096_11:00,2246,Padeloo,5096,Court 1,2026-10-19,11:00 - 12:00,125000,Booked
+2246_5096_12:00,2246,Padeloo,5096,Court 1,2026-10-19,12:00 - 13:00,125000,Booked
+2246_5096_13:00,2246,Padeloo,5096,Court 1,2026-10-19,13:00 - 14:00,125000,Booked
 2246_5096_14:00,2246,Padeloo,5096,Court 1,2026-10-19,14:00 - 15:00,125000,Available
 2246_5096_15:00,2246,Padeloo,5096,Court 1,2026-10-19,15:00 - 16:00,125000,Available
 2246_5096_16:00,2246,Padeloo,5096,Court 1,2026-10-19,16:00 - 17:00,125000,Available
@@ -2321,13 +2361,13 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2246_9263_08:00,2246,Padeloo,9263,Court 2,2026-10-19,08:00 - 09:00,150000,Booked
 2246_9263_09:00,2246,Padeloo,9263,Court 2,2026-10-19,09:00 - 10:00,150000,Booked
 2246_9263_10:00,2246,Padeloo,9263,Court 2,2026-10-19,10:00 - 11:00,150000,Booked
-2246_9263_11:00,2246,Padeloo,9263,Court 2,2026-10-19,11:00 - 12:00,125000,Available
-2246_9263_12:00,2246,Padeloo,9263,Court 2,2026-10-19,12:00 - 13:00,125000,Available
-2246_9263_13:00,2246,Padeloo,9263,Court 2,2026-10-19,13:00 - 14:00,125000,Available
+2246_9263_11:00,2246,Padeloo,9263,Court 2,2026-10-19,11:00 - 12:00,125000,Booked
+2246_9263_12:00,2246,Padeloo,9263,Court 2,2026-10-19,12:00 - 13:00,125000,Booked
+2246_9263_13:00,2246,Padeloo,9263,Court 2,2026-10-19,13:00 - 14:00,125000,Booked
 2246_9263_14:00,2246,Padeloo,9263,Court 2,2026-10-19,14:00 - 15:00,125000,Available
 2246_9263_15:00,2246,Padeloo,9263,Court 2,2026-10-19,15:00 - 16:00,125000,Available
-2246_9263_16:00,2246,Padeloo,9263,Court 2,2026-10-19,16:00 - 17:00,125000,Available
-2246_9263_17:00,2246,Padeloo,9263,Court 2,2026-10-19,17:00 - 18:00,195000,Available
+2246_9263_16:00,2246,Padeloo,9263,Court 2,2026-10-19,16:00 - 17:00,125000,Booked
+2246_9263_17:00,2246,Padeloo,9263,Court 2,2026-10-19,17:00 - 18:00,195000,Booked
 2246_9263_18:00,2246,Padeloo,9263,Court 2,2026-10-19,18:00 - 19:00,195000,Available
 2246_9263_19:00,2246,Padeloo,9263,Court 2,2026-10-19,19:00 - 20:00,195000,Available
 2246_9263_20:00,2246,Padeloo,9263,Court 2,2026-10-19,20:00 - 21:00,195000,Booked
@@ -2344,8 +2384,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2246_9264_13:00,2246,Padeloo,9264,Court 3,2026-10-19,13:00 - 14:00,125000,Available
 2246_9264_14:00,2246,Padeloo,9264,Court 3,2026-10-19,14:00 - 15:00,125000,Available
 2246_9264_15:00,2246,Padeloo,9264,Court 3,2026-10-19,15:00 - 16:00,125000,Available
-2246_9264_16:00,2246,Padeloo,9264,Court 3,2026-10-19,16:00 - 17:00,125000,Available
-2246_9264_17:00,2246,Padeloo,9264,Court 3,2026-10-19,17:00 - 18:00,195000,Available
+2246_9264_16:00,2246,Padeloo,9264,Court 3,2026-10-19,16:00 - 17:00,125000,Booked
+2246_9264_17:00,2246,Padeloo,9264,Court 3,2026-10-19,17:00 - 18:00,195000,Booked
 2246_9264_18:00,2246,Padeloo,9264,Court 3,2026-10-19,18:00 - 19:00,195000,Available
 2246_9264_19:00,2246,Padeloo,9264,Court 3,2026-10-19,19:00 - 20:00,195000,Available
 2246_9264_20:00,2246,Padeloo,9264,Court 3,2026-10-19,20:00 - 21:00,195000,Available
@@ -4134,11 +4174,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4442_12415_20:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-19,20:00 - 21:00,75000,Available
 4442_12415_21:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-19,21:00 - 22:00,75000,Available
 4442_12415_22:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-19,22:00 - 23:00,75000,Available
-1064_1908_01:00,1064,Avion Sports Center,1908,Field A,2026-10-19,01:00 - 02:00,1000000,Available
-1064_1908_02:00,1064,Avion Sports Center,1908,Field A,2026-10-19,02:00 - 03:00,1000000,Available
-1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-19,03:00 - 04:00,1000000,Available
-1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-19,04:00 - 05:00,1000000,Available
-1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-19,05:00 - 06:00,1000000,Available
 1064_1908_06:00,1064,Avion Sports Center,1908,Field A,2026-10-19,06:00 - 07:00,500000,Available
 1064_1908_07:00,1064,Avion Sports Center,1908,Field A,2026-10-19,07:00 - 08:00,500000,Available
 1064_1908_08:00,1064,Avion Sports Center,1908,Field A,2026-10-19,08:00 - 09:00,500000,Available
@@ -4157,11 +4192,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1908_21:00,1064,Avion Sports Center,1908,Field A,2026-10-19,21:00 - 22:00,1000000,Booked
 1064_1908_22:00,1064,Avion Sports Center,1908,Field A,2026-10-19,22:00 - 23:00,1000000,Available
 1064_1908_23:00,1064,Avion Sports Center,1908,Field A,2026-10-19,23:00 - 00:00,1000000,Available
-1064_2352_01:00,1064,Avion Sports Center,2352,Field B,2026-10-19,01:00 - 02:00,1000000,Available
-1064_2352_02:00,1064,Avion Sports Center,2352,Field B,2026-10-19,02:00 - 03:00,1000000,Available
-1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-19,03:00 - 04:00,1000000,Available
-1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-19,04:00 - 05:00,1000000,Available
-1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-19,05:00 - 06:00,1000000,Available
 1064_2352_06:00,1064,Avion Sports Center,2352,Field B,2026-10-19,06:00 - 07:00,500000,Available
 1064_2352_07:00,1064,Avion Sports Center,2352,Field B,2026-10-19,07:00 - 08:00,500000,Available
 1064_2352_08:00,1064,Avion Sports Center,2352,Field B,2026-10-19,08:00 - 09:00,500000,Available
@@ -4180,11 +4210,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2352_21:00,1064,Avion Sports Center,2352,Field B,2026-10-19,21:00 - 22:00,1000000,Booked
 1064_2352_22:00,1064,Avion Sports Center,2352,Field B,2026-10-19,22:00 - 23:00,1000000,Available
 1064_2352_23:00,1064,Avion Sports Center,2352,Field B,2026-10-19,23:00 - 00:00,1000000,Available
-1064_1885_01:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,01:00 - 02:00,180000,Available
-1064_1885_02:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,02:00 - 03:00,180000,Available
-1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,03:00 - 04:00,180000,Available
-1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,04:00 - 05:00,180000,Available
-1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,05:00 - 06:00,180000,Available
 1064_1885_06:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,06:00 - 07:00,180000,Booked
 1064_1885_07:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,07:00 - 08:00,180000,Booked
 1064_1885_08:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,08:00 - 09:00,200000,Available
@@ -4203,11 +4228,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1885_21:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,21:00 - 22:00,280000,Available
 1064_1885_22:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,22:00 - 23:00,250000,Available
 1064_1885_23:00,1064,Avion Sports Center,1885,Biru 1,2026-10-19,23:00 - 00:00,250000,Available
-1064_2354_01:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,01:00 - 02:00,180000,Available
-1064_2354_02:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,02:00 - 03:00,180000,Available
-1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,03:00 - 04:00,180000,Available
-1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,04:00 - 05:00,180000,Available
-1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,05:00 - 06:00,180000,Available
 1064_2354_06:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,06:00 - 07:00,180000,Booked
 1064_2354_07:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,07:00 - 08:00,180000,Booked
 1064_2354_08:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,08:00 - 09:00,200000,Available
@@ -4226,11 +4246,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2354_21:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,21:00 - 22:00,280000,Available
 1064_2354_22:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,22:00 - 23:00,250000,Available
 1064_2354_23:00,1064,Avion Sports Center,2354,Biru 2,2026-10-19,23:00 - 00:00,250000,Available
-1064_2355_01:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,01:00 - 02:00,180000,Available
-1064_2355_02:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,02:00 - 03:00,180000,Available
-1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,03:00 - 04:00,180000,Available
-1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,04:00 - 05:00,180000,Available
-1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,05:00 - 06:00,180000,Available
 1064_2355_06:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,06:00 - 07:00,180000,Booked
 1064_2355_07:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,07:00 - 08:00,180000,Booked
 1064_2355_08:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,08:00 - 09:00,200000,Available
@@ -4249,11 +4264,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2355_21:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,21:00 - 22:00,280000,Available
 1064_2355_22:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,22:00 - 23:00,250000,Available
 1064_2355_23:00,1064,Avion Sports Center,2355,Biru 3,2026-10-19,23:00 - 00:00,250000,Available
-1064_2356_01:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,01:00 - 02:00,180000,Available
-1064_2356_02:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,02:00 - 03:00,180000,Available
-1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,03:00 - 04:00,180000,Available
-1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,04:00 - 05:00,180000,Available
-1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,05:00 - 06:00,180000,Available
 1064_2356_06:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,06:00 - 07:00,180000,Available
 1064_2356_07:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,07:00 - 08:00,180000,Available
 1064_2356_08:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,08:00 - 09:00,200000,Available
@@ -4272,11 +4282,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2356_21:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,21:00 - 22:00,280000,Available
 1064_2356_22:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,22:00 - 23:00,250000,Available
 1064_2356_23:00,1064,Avion Sports Center,2356,Biru 4,2026-10-19,23:00 - 00:00,250000,Available
-1064_1879_01:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,01:00 - 02:00,180000,Booked
-1064_1879_02:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,02:00 - 03:00,180000,Booked
-1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,03:00 - 04:00,180000,Booked
-1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,04:00 - 05:00,180000,Booked
-1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,05:00 - 06:00,180000,Booked
 1064_1879_06:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,06:00 - 07:00,180000,Available
 1064_1879_07:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,07:00 - 08:00,180000,Available
 1064_1879_08:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,08:00 - 09:00,200000,Available
@@ -4295,11 +4300,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1879_21:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,21:00 - 22:00,280000,Available
 1064_1879_22:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,22:00 - 23:00,250000,Booked
 1064_1879_23:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-19,23:00 - 00:00,250000,Booked
-1064_1880_01:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,01:00 - 02:00,180000,Booked
-1064_1880_02:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,02:00 - 03:00,180000,Booked
-1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,03:00 - 04:00,180000,Booked
-1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,04:00 - 05:00,180000,Booked
-1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,05:00 - 06:00,180000,Booked
 1064_1880_06:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,06:00 - 07:00,180000,Available
 1064_1880_07:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,07:00 - 08:00,180000,Available
 1064_1880_08:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-19,08:00 - 09:00,200000,Available
