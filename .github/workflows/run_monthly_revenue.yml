@@ -2,14 +2,10 @@ name: Generate Monthly Revenue Summary
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'laporan_padel_dki_jakarta_*.xlsx'
 
 jobs:
-  merge-excel:
+  merge-data:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -24,16 +20,16 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install pandas openpyxl
+          pip install pandas
 
       - name: Run Merge Script
         run: |
-          python scripts/merge_revenue.py
+          python merge_revenue.py
 
       - name: Commit and Push Output
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add laporan_padel_dki_jakarta_revenue_1bulan_total.xlsx
+          git add laporan_padel_dki_jakarta_revenue_1bulan_total.csv || true
           git commit -m "Auto: Update total revenue bulanan (16 Sep - 16 Okt)" || exit 0
           git push
