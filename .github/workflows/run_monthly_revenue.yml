@@ -20,7 +20,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install pandas
+          pip install pandas openpyxl
 
       - name: Run Merge Script
         run: |
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add laporan_padel_dki_jakarta_revenue_1bulan_total.csv || true
-          git commit -m "Auto: Update total revenue bulanan (16 Sep - 16 Okt)" || exit 0
-          git push
+          git add laporan_padel_dki_jakarta_16Sep_16Okt_lengkap.xlsx
+          git commit -m "Auto: Update rekap omzet lengkap 16 Sep - 16 Okt [skip ci]" || exit 0
+          git push origin main
