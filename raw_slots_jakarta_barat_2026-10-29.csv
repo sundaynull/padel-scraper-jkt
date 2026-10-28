@@ -1,4 +1,32 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+2334_8120_05:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,05:00 - 06:00,200000,Available
+2334_8123_05:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,05:00 - 06:00,200000,Available
+2334_8121_05:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,05:00 - 06:00,150000,Available
+2334_8122_05:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-10-29,05:00 - 06:00,99000,Available
+1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-29,03:00 - 04:00,1000000,Available
+1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-29,04:00 - 05:00,1000000,Available
+1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-29,05:00 - 06:00,1000000,Available
+1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-29,03:00 - 04:00,1000000,Available
+1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-29,04:00 - 05:00,1000000,Available
+1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-29,05:00 - 06:00,1000000,Available
+1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,03:00 - 04:00,180000,Available
+1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,04:00 - 05:00,180000,Available
+1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,05:00 - 06:00,180000,Available
+1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,03:00 - 04:00,180000,Available
+1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,04:00 - 05:00,180000,Available
+1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,05:00 - 06:00,180000,Available
+1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,03:00 - 04:00,180000,Available
+1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,04:00 - 05:00,180000,Available
+1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,05:00 - 06:00,180000,Available
+1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,03:00 - 04:00,180000,Available
+1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,04:00 - 05:00,180000,Available
+1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,05:00 - 06:00,180000,Available
+1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,03:00 - 04:00,180000,Booked
+1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,04:00 - 05:00,180000,Booked
+1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,05:00 - 06:00,180000,Booked
+1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,03:00 - 04:00,180000,Booked
+1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,04:00 - 05:00,180000,Booked
+1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,05:00 - 06:00,180000,Booked
 3064_7631_06:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-29,06:00 - 07:00,99000,Available
 3064_7631_07:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-29,07:00 - 08:00,99000,Available
 3064_7631_08:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-10-29,08:00 - 09:00,99000,Available
@@ -924,7 +952,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3358_8176_06:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,06:00 - 07:00,99000,Available
 3358_8176_07:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,07:00 - 08:00,99000,Available
 3358_8176_08:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,08:00 - 09:00,99000,Available
-3358_8176_09:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,09:00 - 10:00,99000,Available
+3358_8176_09:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,09:00 - 10:00,99000,Booked
 3358_8176_10:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,10:00 - 11:00,99000,Available
 3358_8176_11:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,11:00 - 12:00,99000,Available
 3358_8176_12:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-10-29,12:00 - 13:00,99000,Available
@@ -2386,7 +2414,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1590_11484_20:00,1590,KSC Racquet Club,11484,Automatic Mahjong Table,2026-10-29,20:00 - 21:00,100000,Available
 1590_11484_21:00,1590,KSC Racquet Club,11484,Automatic Mahjong Table,2026-10-29,21:00 - 22:00,100000,Available
 1590_11484_22:00,1590,KSC Racquet Club,11484,Automatic Mahjong Table,2026-10-29,22:00 - 23:00,100000,Available
-2334_8120_05:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,05:00 - 06:00,200000,Available
 2334_8120_06:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,06:00 - 07:00,200000,Available
 2334_8120_07:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,07:00 - 08:00,200000,Available
 2334_8120_08:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,08:00 - 09:00,200000,Available
@@ -2405,7 +2432,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8120_21:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,21:00 - 22:00,495000,Booked
 2334_8120_22:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,22:00 - 23:00,275000,Available
 2334_8120_23:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-10-29,23:00 - 00:00,275000,Available
-2334_8123_05:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,05:00 - 06:00,200000,Available
 2334_8123_06:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,06:00 - 07:00,200000,Available
 2334_8123_07:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,07:00 - 08:00,200000,Available
 2334_8123_08:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,08:00 - 09:00,200000,Available
@@ -2424,7 +2450,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8123_21:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,21:00 - 22:00,495000,Booked
 2334_8123_22:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,22:00 - 23:00,275000,Available
 2334_8123_23:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-10-29,23:00 - 00:00,275000,Available
-2334_8121_05:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,05:00 - 06:00,150000,Available
 2334_8121_06:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,06:00 - 07:00,150000,Available
 2334_8121_07:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,07:00 - 08:00,150000,Available
 2334_8121_08:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,08:00 - 09:00,150000,Available
@@ -2443,7 +2468,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8121_21:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,21:00 - 22:00,385000,Booked
 2334_8121_22:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,22:00 - 23:00,220000,Available
 2334_8121_23:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-10-29,23:00 - 00:00,220000,Available
-2334_8122_05:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-10-29,05:00 - 06:00,99000,Available
 2334_8122_06:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-10-29,06:00 - 07:00,99000,Available
 2334_8122_07:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-10-29,07:00 - 08:00,99000,Booked
 2334_8122_08:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-10-29,08:00 - 09:00,99000,Booked
@@ -3296,7 +3320,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1222_3305_19:00,1222,Westside Padel,3305,Court 4,2026-10-29,19:00 - 20:00,240000,Booked
 1222_3305_20:00,1222,Westside Padel,3305,Court 4,2026-10-29,20:00 - 21:00,240000,Available
 1222_3305_21:00,1222,Westside Padel,3305,Court 4,2026-10-29,21:00 - 22:00,240000,Available
-1563_3171_06:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-10-29,06:00 - 07:00,210000,Available
+1563_3171_06:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-10-29,06:00 - 07:00,210000,Booked
 1563_3171_07:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-10-29,07:00 - 08:00,210000,Available
 1563_3171_08:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-10-29,08:00 - 09:00,210000,Available
 1563_3171_09:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-10-29,09:00 - 10:00,180000,Available
@@ -4286,9 +4310,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4442_12415_20:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-29,20:00 - 21:00,50000,Available
 4442_12415_21:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-29,21:00 - 22:00,50000,Available
 4442_12415_22:00,4442,Alley Social Padel Mahjong By Homeground,12415,Mahjong,2026-10-29,22:00 - 23:00,50000,Available
-1064_1908_03:00,1064,Avion Sports Center,1908,Field A,2026-10-29,03:00 - 04:00,1000000,Available
-1064_1908_04:00,1064,Avion Sports Center,1908,Field A,2026-10-29,04:00 - 05:00,1000000,Available
-1064_1908_05:00,1064,Avion Sports Center,1908,Field A,2026-10-29,05:00 - 06:00,1000000,Available
 1064_1908_06:00,1064,Avion Sports Center,1908,Field A,2026-10-29,06:00 - 07:00,500000,Available
 1064_1908_07:00,1064,Avion Sports Center,1908,Field A,2026-10-29,07:00 - 08:00,500000,Available
 1064_1908_08:00,1064,Avion Sports Center,1908,Field A,2026-10-29,08:00 - 09:00,500000,Available
@@ -4307,9 +4328,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1908_21:00,1064,Avion Sports Center,1908,Field A,2026-10-29,21:00 - 22:00,1000000,Booked
 1064_1908_22:00,1064,Avion Sports Center,1908,Field A,2026-10-29,22:00 - 23:00,1000000,Available
 1064_1908_23:00,1064,Avion Sports Center,1908,Field A,2026-10-29,23:00 - 00:00,1000000,Available
-1064_2352_03:00,1064,Avion Sports Center,2352,Field B,2026-10-29,03:00 - 04:00,1000000,Available
-1064_2352_04:00,1064,Avion Sports Center,2352,Field B,2026-10-29,04:00 - 05:00,1000000,Available
-1064_2352_05:00,1064,Avion Sports Center,2352,Field B,2026-10-29,05:00 - 06:00,1000000,Available
 1064_2352_06:00,1064,Avion Sports Center,2352,Field B,2026-10-29,06:00 - 07:00,500000,Available
 1064_2352_07:00,1064,Avion Sports Center,2352,Field B,2026-10-29,07:00 - 08:00,500000,Available
 1064_2352_08:00,1064,Avion Sports Center,2352,Field B,2026-10-29,08:00 - 09:00,500000,Available
@@ -4328,9 +4346,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2352_21:00,1064,Avion Sports Center,2352,Field B,2026-10-29,21:00 - 22:00,1000000,Booked
 1064_2352_22:00,1064,Avion Sports Center,2352,Field B,2026-10-29,22:00 - 23:00,1000000,Available
 1064_2352_23:00,1064,Avion Sports Center,2352,Field B,2026-10-29,23:00 - 00:00,1000000,Available
-1064_1885_03:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,03:00 - 04:00,180000,Available
-1064_1885_04:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,04:00 - 05:00,180000,Available
-1064_1885_05:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,05:00 - 06:00,180000,Available
 1064_1885_06:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,06:00 - 07:00,180000,Available
 1064_1885_07:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,07:00 - 08:00,180000,Booked
 1064_1885_08:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,08:00 - 09:00,200000,Booked
@@ -4349,9 +4364,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1885_21:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,21:00 - 22:00,300000,Available
 1064_1885_22:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,22:00 - 23:00,250000,Available
 1064_1885_23:00,1064,Avion Sports Center,1885,Biru 1,2026-10-29,23:00 - 00:00,250000,Available
-1064_2354_03:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,03:00 - 04:00,180000,Available
-1064_2354_04:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,04:00 - 05:00,180000,Available
-1064_2354_05:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,05:00 - 06:00,180000,Available
 1064_2354_06:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,06:00 - 07:00,180000,Available
 1064_2354_07:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,07:00 - 08:00,180000,Booked
 1064_2354_08:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,08:00 - 09:00,200000,Booked
@@ -4370,9 +4382,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2354_21:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,21:00 - 22:00,300000,Available
 1064_2354_22:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,22:00 - 23:00,250000,Available
 1064_2354_23:00,1064,Avion Sports Center,2354,Biru 2,2026-10-29,23:00 - 00:00,250000,Available
-1064_2355_03:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,03:00 - 04:00,180000,Available
-1064_2355_04:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,04:00 - 05:00,180000,Available
-1064_2355_05:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,05:00 - 06:00,180000,Available
 1064_2355_06:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,06:00 - 07:00,180000,Available
 1064_2355_07:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,07:00 - 08:00,180000,Available
 1064_2355_08:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,08:00 - 09:00,200000,Available
@@ -4391,9 +4400,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2355_21:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,21:00 - 22:00,300000,Available
 1064_2355_22:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,22:00 - 23:00,250000,Available
 1064_2355_23:00,1064,Avion Sports Center,2355,Biru 3,2026-10-29,23:00 - 00:00,250000,Available
-1064_2356_03:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,03:00 - 04:00,180000,Available
-1064_2356_04:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,04:00 - 05:00,180000,Available
-1064_2356_05:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,05:00 - 06:00,180000,Available
 1064_2356_06:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,06:00 - 07:00,180000,Available
 1064_2356_07:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,07:00 - 08:00,180000,Available
 1064_2356_08:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,08:00 - 09:00,200000,Available
@@ -4412,9 +4418,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_2356_21:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,21:00 - 22:00,300000,Available
 1064_2356_22:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,22:00 - 23:00,250000,Available
 1064_2356_23:00,1064,Avion Sports Center,2356,Biru 4,2026-10-29,23:00 - 00:00,250000,Available
-1064_1879_03:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,03:00 - 04:00,180000,Booked
-1064_1879_04:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,04:00 - 05:00,180000,Booked
-1064_1879_05:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,05:00 - 06:00,180000,Booked
 1064_1879_06:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,06:00 - 07:00,180000,Available
 1064_1879_07:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,07:00 - 08:00,180000,Available
 1064_1879_08:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,08:00 - 09:00,200000,Available
@@ -4433,9 +4436,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1064_1879_21:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,21:00 - 22:00,300000,Booked
 1064_1879_22:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,22:00 - 23:00,250000,Booked
 1064_1879_23:00,1064,Avion Sports Center,1879,Hijau 1,2026-10-29,23:00 - 00:00,250000,Booked
-1064_1880_03:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,03:00 - 04:00,180000,Booked
-1064_1880_04:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,04:00 - 05:00,180000,Booked
-1064_1880_05:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,05:00 - 06:00,180000,Booked
 1064_1880_06:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,06:00 - 07:00,180000,Available
 1064_1880_07:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,07:00 - 08:00,180000,Available
 1064_1880_08:00,1064,Avion Sports Center,1880,Hijau 2,2026-10-29,08:00 - 09:00,200000,Available
@@ -7506,8 +7506,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3249_11724_19:00,3249,OLA PADEL CLUB,11724,Meja 2,2026-10-29,19:00 - 20:00,100000,Available
 3249_11724_20:00,3249,OLA PADEL CLUB,11724,Meja 2,2026-10-29,20:00 - 21:00,100000,Available
 3249_11724_21:00,3249,OLA PADEL CLUB,11724,Meja 2,2026-10-29,21:00 - 22:00,100000,Available
-3555_8782_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,07:00 - 08:00,195000,Available
-3555_8782_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,08:00 - 09:00,195000,Available
+3555_8782_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,07:00 - 08:00,195000,Booked
+3555_8782_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,08:00 - 09:00,195000,Booked
 3555_8782_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,09:00 - 10:00,195000,Available
 3555_8782_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,10:00 - 11:00,195000,Available
 3555_8782_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,11:00 - 12:00,195000,Available
@@ -7521,8 +7521,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8782_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,19:00 - 20:00,280000,Available
 3555_8782_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,20:00 - 21:00,280000,Available
 3555_8782_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8782,Padel Court 1,2026-10-29,21:00 - 22:00,280000,Available
-3555_8835_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,07:00 - 08:00,195000,Available
-3555_8835_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,08:00 - 09:00,195000,Available
+3555_8835_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,07:00 - 08:00,195000,Booked
+3555_8835_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,08:00 - 09:00,195000,Booked
 3555_8835_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,09:00 - 10:00,195000,Available
 3555_8835_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,10:00 - 11:00,195000,Available
 3555_8835_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,11:00 - 12:00,195000,Available
@@ -7536,8 +7536,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8835_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,19:00 - 20:00,280000,Available
 3555_8835_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,20:00 - 21:00,280000,Available
 3555_8835_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8835,Padel Court 2,2026-10-29,21:00 - 22:00,280000,Available
-3555_8836_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,07:00 - 08:00,195000,Available
-3555_8836_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,08:00 - 09:00,195000,Available
+3555_8836_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,07:00 - 08:00,195000,Booked
+3555_8836_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,08:00 - 09:00,195000,Booked
 3555_8836_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,09:00 - 10:00,195000,Available
 3555_8836_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,10:00 - 11:00,195000,Available
 3555_8836_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,11:00 - 12:00,195000,Available
@@ -7551,8 +7551,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8836_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,19:00 - 20:00,280000,Available
 3555_8836_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,20:00 - 21:00,280000,Available
 3555_8836_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8836,Padel Court 3,2026-10-29,21:00 - 22:00,280000,Available
-3555_8837_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,07:00 - 08:00,195000,Available
-3555_8837_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,08:00 - 09:00,195000,Available
+3555_8837_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,07:00 - 08:00,195000,Booked
+3555_8837_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,08:00 - 09:00,195000,Booked
 3555_8837_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,09:00 - 10:00,195000,Available
 3555_8837_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,10:00 - 11:00,195000,Available
 3555_8837_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,11:00 - 12:00,195000,Available
@@ -7566,8 +7566,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8837_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,19:00 - 20:00,280000,Available
 3555_8837_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,20:00 - 21:00,280000,Available
 3555_8837_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8837,Padel Court R a,2026-10-29,21:00 - 22:00,280000,Available
-3555_8838_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,07:00 - 08:00,195000,Available
-3555_8838_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,08:00 - 09:00,195000,Available
+3555_8838_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,07:00 - 08:00,195000,Booked
+3555_8838_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,08:00 - 09:00,195000,Booked
 3555_8838_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,09:00 - 10:00,195000,Available
 3555_8838_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,10:00 - 11:00,195000,Available
 3555_8838_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,11:00 - 12:00,195000,Available
@@ -7581,8 +7581,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8838_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,19:00 - 20:00,280000,Available
 3555_8838_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,20:00 - 21:00,280000,Available
 3555_8838_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8838,Padel Court R b,2026-10-29,21:00 - 22:00,280000,Available
-3555_8783_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,07:00 - 08:00,225000,Available
-3555_8783_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,08:00 - 09:00,225000,Available
+3555_8783_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,07:00 - 08:00,225000,Booked
+3555_8783_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,08:00 - 09:00,225000,Booked
 3555_8783_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,09:00 - 10:00,225000,Available
 3555_8783_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,10:00 - 11:00,195000,Available
 3555_8783_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,11:00 - 12:00,195000,Available
@@ -7596,8 +7596,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8783_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,19:00 - 20:00,225000,Booked
 3555_8783_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,20:00 - 21:00,225000,Booked
 3555_8783_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8783,Pickleball Court 1,2026-10-29,21:00 - 22:00,225000,Available
-3555_8956_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,07:00 - 08:00,225000,Available
-3555_8956_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,08:00 - 09:00,225000,Available
+3555_8956_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,07:00 - 08:00,225000,Booked
+3555_8956_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,08:00 - 09:00,225000,Booked
 3555_8956_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,09:00 - 10:00,225000,Available
 3555_8956_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,10:00 - 11:00,195000,Available
 3555_8956_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,11:00 - 12:00,195000,Available
@@ -7611,8 +7611,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8956_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,19:00 - 20:00,225000,Available
 3555_8956_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,20:00 - 21:00,225000,Available
 3555_8956_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8956,Pickleball Court 2,2026-10-29,21:00 - 22:00,225000,Available
-3555_8957_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,07:00 - 08:00,225000,Available
-3555_8957_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,08:00 - 09:00,225000,Available
+3555_8957_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,07:00 - 08:00,225000,Booked
+3555_8957_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,08:00 - 09:00,225000,Booked
 3555_8957_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,09:00 - 10:00,225000,Available
 3555_8957_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,10:00 - 11:00,195000,Available
 3555_8957_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,11:00 - 12:00,195000,Available
@@ -7626,8 +7626,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3555_8957_19:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,19:00 - 20:00,225000,Booked
 3555_8957_20:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,20:00 - 21:00,225000,Booked
 3555_8957_21:00,3555,Di Atas Social Club - Lippo Mall Puri,8957,Pickleball Court 3,2026-10-29,21:00 - 22:00,225000,Available
-3555_8958_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,07:00 - 08:00,225000,Available
-3555_8958_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,08:00 - 09:00,225000,Available
+3555_8958_07:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,07:00 - 08:00,225000,Booked
+3555_8958_08:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,08:00 - 09:00,225000,Booked
 3555_8958_09:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,09:00 - 10:00,225000,Available
 3555_8958_10:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,10:00 - 11:00,195000,Available
 3555_8958_11:00,3555,Di Atas Social Club - Lippo Mall Puri,8958,Pickleball Court 4,2026-10-29,11:00 - 12:00,195000,Available
