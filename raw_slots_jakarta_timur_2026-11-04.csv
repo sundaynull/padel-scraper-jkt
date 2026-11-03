@@ -1,4 +1,35 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,06:00 - 07:00,125000,Available
+2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,06:00 - 07:00,125000,Available
+2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-04,06:00 - 07:00,125000,Available
+209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,05:00 - 06:00,125000,Available
+209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
+209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
+209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
+3606_8959_06:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,06:00 - 07:00,175000,Available
+3606_8959_07:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,07:00 - 08:00,175000,Available
+3606_8959_08:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,08:00 - 09:00,175000,Available
+3606_8960_06:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,06:00 - 07:00,175000,Available
+3606_8960_07:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,07:00 - 08:00,175000,Available
+3606_8960_08:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,08:00 - 09:00,175000,Available
+3606_8961_06:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,06:00 - 07:00,175000,Available
+3606_8961_07:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,07:00 - 08:00,175000,Available
+3606_8961_08:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,08:00 - 09:00,175000,Available
+3606_8962_06:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,06:00 - 07:00,175000,Available
+3606_8962_07:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,07:00 - 08:00,175000,Available
+3606_8962_08:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,08:00 - 09:00,175000,Available
+3606_8963_06:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,06:00 - 07:00,245000,Available
+3606_8963_07:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,07:00 - 08:00,245000,Available
+3606_8963_08:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,08:00 - 09:00,245000,Available
+3606_8964_06:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,06:00 - 07:00,245000,Available
+3606_8964_07:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,07:00 - 08:00,245000,Available
+3606_8964_08:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,08:00 - 09:00,245000,Available
+3606_8965_06:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,06:00 - 07:00,100000,Available
+3606_8965_07:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,07:00 - 08:00,100000,Available
+3606_8965_08:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,08:00 - 09:00,100000,Available
+3606_8966_06:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,06:00 - 07:00,100000,Available
+3606_8966_07:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,07:00 - 08:00,100000,Available
+3606_8966_08:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,08:00 - 09:00,100000,Available
 2701_6035_06:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-04,06:00 - 07:00,125000,Available
 2701_6035_07:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-04,07:00 - 08:00,125000,Booked
 2701_6035_08:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-04,08:00 - 09:00,125000,Booked
@@ -157,7 +188,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3758_9306_21:00,3758,ZAGO PADEL,9306,COURT D,2026-11-04,21:00 - 22:00,99000,Available
 3758_9306_22:00,3758,ZAGO PADEL,9306,COURT D,2026-11-04,22:00 - 23:00,99000,Available
 3758_9306_23:00,3758,ZAGO PADEL,9306,COURT D,2026-11-04,23:00 - 00:00,99000,Available
-2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,06:00 - 07:00,125000,Available
 2274_6930_07:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,07:00 - 08:00,125000,Booked
 2274_6930_08:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,08:00 - 09:00,125000,Booked
 2274_6930_09:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,09:00 - 10:00,125000,Booked
@@ -175,7 +205,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6930_21:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,21:00 - 22:00,199999,Available
 2274_6930_22:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,22:00 - 23:00,125000,Available
 2274_6930_23:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-04,23:00 - 00:00,125000,Available
-2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,06:00 - 07:00,125000,Available
 2274_6933_07:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,07:00 - 08:00,125000,Available
 2274_6933_08:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,08:00 - 09:00,125000,Booked
 2274_6933_09:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,09:00 - 10:00,125000,Booked
@@ -193,7 +222,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6933_21:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,21:00 - 22:00,199999,Available
 2274_6933_22:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,22:00 - 23:00,125000,Available
 2274_6933_23:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-04,23:00 - 00:00,125000,Available
-2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-04,06:00 - 07:00,125000,Available
 2274_6929_07:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-04,07:00 - 08:00,125000,Available
 2274_6929_08:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-04,08:00 - 09:00,125000,Booked
 2274_6929_09:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-04,09:00 - 10:00,125000,Booked
@@ -395,8 +423,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2343_4939_07:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,07:00 - 08:00,160000,Available
 2343_4939_08:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,08:00 - 09:00,160000,Available
 2343_4939_09:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,09:00 - 10:00,160000,Available
-2343_4939_10:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,10:00 - 11:00,160000,Booked
-2343_4939_11:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,11:00 - 12:00,160000,Booked
+2343_4939_10:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,10:00 - 11:00,160000,Available
+2343_4939_11:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,11:00 - 12:00,160000,Available
 2343_4939_12:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,12:00 - 13:00,160000,Available
 2343_4939_13:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,13:00 - 14:00,160000,Available
 2343_4939_14:00,2343,Jet Padel,4939,Lapangan Padel 3,2026-11-04,14:00 - 15:00,160000,Available
@@ -974,7 +1002,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1389_6533_20:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-04,20:00 - 21:00,160000,Booked
 1389_6533_21:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-04,21:00 - 22:00,125000,Available
 1389_6533_22:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-04,22:00 - 23:00,125000,Available
-209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,05:00 - 06:00,125000,Available
 209_240_06:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,06:00 - 07:00,125000,Available
 209_240_07:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,07:00 - 08:00,125000,Available
 209_240_08:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,08:00 - 09:00,125000,Available
@@ -993,7 +1020,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_240_21:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,21:00 - 22:00,125000,Booked
 209_240_22:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,22:00 - 23:00,125000,Available
 209_240_23:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-04,23:00 - 00:00,125000,Available
-209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
 209_3705_06:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,06:00 - 07:00,125000,Available
 209_3705_07:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,07:00 - 08:00,125000,Available
 209_3705_08:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,08:00 - 09:00,125000,Available
@@ -1012,7 +1038,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3705_21:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,21:00 - 22:00,125000,Booked
 209_3705_22:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,22:00 - 23:00,125000,Available
 209_3705_23:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-04,23:00 - 00:00,125000,Available
-209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
 209_3706_06:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,06:00 - 07:00,125000,Available
 209_3706_07:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,07:00 - 08:00,125000,Available
 209_3706_08:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,08:00 - 09:00,125000,Available
@@ -1031,7 +1056,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3706_21:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,21:00 - 22:00,125000,Booked
 209_3706_22:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,22:00 - 23:00,125000,Available
 209_3706_23:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-04,23:00 - 00:00,125000,Available
-209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-04,05:00 - 06:00,125000,Available
 209_3707_06:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-04,06:00 - 07:00,125000,Available
 209_3707_07:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-04,07:00 - 08:00,125000,Available
 209_3707_08:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-04,08:00 - 09:00,125000,Booked
@@ -1462,9 +1486,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2372_6479_19:00,2372,El Tama Padel,6479,Lapangan Combo,2026-11-04,19:00 - 20:00,375000,Booked
 2372_6479_20:00,2372,El Tama Padel,6479,Lapangan Combo,2026-11-04,20:00 - 21:00,375000,Booked
 2372_6479_21:00,2372,El Tama Padel,6479,Lapangan Combo,2026-11-04,21:00 - 22:00,375000,Available
-3606_8959_06:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,06:00 - 07:00,175000,Available
-3606_8959_07:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,07:00 - 08:00,175000,Available
-3606_8959_08:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,08:00 - 09:00,175000,Available
 3606_8959_09:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,09:00 - 10:00,175000,Available
 3606_8959_10:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,10:00 - 11:00,99000,Available
 3606_8959_11:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,11:00 - 12:00,99000,Available
@@ -1479,9 +1500,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8959_20:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,20:00 - 21:00,199000,Booked
 3606_8959_21:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,21:00 - 22:00,99000,Booked
 3606_8959_22:00,3606,Matchaus Padel & Pickleball,8959,Court 1,2026-11-04,22:00 - 23:00,99000,Available
-3606_8960_06:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,06:00 - 07:00,175000,Available
-3606_8960_07:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,07:00 - 08:00,175000,Available
-3606_8960_08:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,08:00 - 09:00,175000,Available
 3606_8960_09:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,09:00 - 10:00,175000,Available
 3606_8960_10:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,10:00 - 11:00,99000,Available
 3606_8960_11:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,11:00 - 12:00,99000,Available
@@ -1496,9 +1514,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8960_20:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,20:00 - 21:00,199000,Booked
 3606_8960_21:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,21:00 - 22:00,99000,Booked
 3606_8960_22:00,3606,Matchaus Padel & Pickleball,8960,Court 2,2026-11-04,22:00 - 23:00,99000,Available
-3606_8961_06:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,06:00 - 07:00,175000,Available
-3606_8961_07:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,07:00 - 08:00,175000,Available
-3606_8961_08:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,08:00 - 09:00,175000,Available
 3606_8961_09:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,09:00 - 10:00,175000,Available
 3606_8961_10:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,10:00 - 11:00,99000,Available
 3606_8961_11:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,11:00 - 12:00,99000,Available
@@ -1513,9 +1528,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8961_20:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,20:00 - 21:00,199000,Booked
 3606_8961_21:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,21:00 - 22:00,99000,Booked
 3606_8961_22:00,3606,Matchaus Padel & Pickleball,8961,Court 3,2026-11-04,22:00 - 23:00,99000,Available
-3606_8962_06:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,06:00 - 07:00,175000,Available
-3606_8962_07:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,07:00 - 08:00,175000,Available
-3606_8962_08:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,08:00 - 09:00,175000,Available
 3606_8962_09:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,09:00 - 10:00,175000,Available
 3606_8962_10:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,10:00 - 11:00,99000,Available
 3606_8962_11:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,11:00 - 12:00,99000,Available
@@ -1530,9 +1542,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8962_20:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,20:00 - 21:00,199000,Available
 3606_8962_21:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,21:00 - 22:00,99000,Available
 3606_8962_22:00,3606,Matchaus Padel & Pickleball,8962,Court 4,2026-11-04,22:00 - 23:00,99000,Available
-3606_8963_06:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,06:00 - 07:00,245000,Available
-3606_8963_07:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,07:00 - 08:00,245000,Available
-3606_8963_08:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,08:00 - 09:00,245000,Available
 3606_8963_09:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,09:00 - 10:00,245000,Available
 3606_8963_10:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,10:00 - 11:00,245000,Available
 3606_8963_11:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,11:00 - 12:00,245000,Available
@@ -1547,9 +1556,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8963_20:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,20:00 - 21:00,245000,Booked
 3606_8963_21:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,21:00 - 22:00,245000,Booked
 3606_8963_22:00,3606,Matchaus Padel & Pickleball,8963,VIP A,2026-11-04,22:00 - 23:00,245000,Available
-3606_8964_06:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,06:00 - 07:00,245000,Available
-3606_8964_07:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,07:00 - 08:00,245000,Available
-3606_8964_08:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,08:00 - 09:00,245000,Available
 3606_8964_09:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,09:00 - 10:00,245000,Available
 3606_8964_10:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,10:00 - 11:00,245000,Available
 3606_8964_11:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,11:00 - 12:00,245000,Available
@@ -1564,9 +1570,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8964_20:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,20:00 - 21:00,245000,Booked
 3606_8964_21:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,21:00 - 22:00,245000,Booked
 3606_8964_22:00,3606,Matchaus Padel & Pickleball,8964,VIP B,2026-11-04,22:00 - 23:00,245000,Available
-3606_8965_06:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,06:00 - 07:00,100000,Available
-3606_8965_07:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,07:00 - 08:00,100000,Available
-3606_8965_08:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,08:00 - 09:00,100000,Available
 3606_8965_09:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,09:00 - 10:00,100000,Available
 3606_8965_10:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,10:00 - 11:00,100000,Available
 3606_8965_11:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,11:00 - 12:00,100000,Available
@@ -1581,9 +1584,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3606_8965_20:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,20:00 - 21:00,100000,Available
 3606_8965_21:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,21:00 - 22:00,100000,Available
 3606_8965_22:00,3606,Matchaus Padel & Pickleball,8965,Court A,2026-11-04,22:00 - 23:00,100000,Available
-3606_8966_06:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,06:00 - 07:00,100000,Available
-3606_8966_07:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,07:00 - 08:00,100000,Available
-3606_8966_08:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,08:00 - 09:00,100000,Available
 3606_8966_09:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,09:00 - 10:00,100000,Available
 3606_8966_10:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,10:00 - 11:00,100000,Available
 3606_8966_11:00,3606,Matchaus Padel & Pickleball,8966,Court B,2026-11-04,11:00 - 12:00,100000,Available
@@ -1775,8 +1775,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2550_6917_22:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6917,Court 5,2026-11-04,22:00 - 23:00,180000,Available
 2550_6917_23:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6917,Court 5,2026-11-04,23:00 - 00:00,180000,Available
 2550_6918_06:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,06:00 - 07:00,180000,Available
-2550_6918_07:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,07:00 - 08:00,180000,Available
-2550_6918_08:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,08:00 - 09:00,180000,Available
+2550_6918_07:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,07:00 - 08:00,180000,Booked
+2550_6918_08:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,08:00 - 09:00,180000,Booked
 2550_6918_09:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,09:00 - 10:00,180000,Available
 2550_6918_10:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,10:00 - 11:00,180000,Available
 2550_6918_11:00,2550,"Kinetic Padel Arena, Harapan Indah Bekasi",6918,Court 6,2026-11-04,11:00 - 12:00,180000,Available
