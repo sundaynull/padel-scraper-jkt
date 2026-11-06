@@ -1,4 +1,11 @@
 slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,06:00 - 07:00,199999,Available
+2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,06:00 - 07:00,199999,Available
+2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-07,06:00 - 07:00,199999,Available
+209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,05:00 - 06:00,125000,Available
+209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
+209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
+209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
 2701_6035_06:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-07,06:00 - 07:00,199999,Available
 2701_6035_07:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-07,07:00 - 08:00,199999,Booked
 2701_6035_08:00,2701,Far East Padel - GROVES,6035,Court - One,2026-11-07,08:00 - 09:00,199999,Booked
@@ -157,7 +164,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3758_9306_21:00,3758,ZAGO PADEL,9306,COURT D,2026-11-07,21:00 - 22:00,135000,Booked
 3758_9306_22:00,3758,ZAGO PADEL,9306,COURT D,2026-11-07,22:00 - 23:00,135000,Available
 3758_9306_23:00,3758,ZAGO PADEL,9306,COURT D,2026-11-07,23:00 - 00:00,135000,Available
-2274_6930_06:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,06:00 - 07:00,199999,Available
 2274_6930_07:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,07:00 - 08:00,199999,Available
 2274_6930_08:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,08:00 - 09:00,199999,Booked
 2274_6930_09:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,09:00 - 10:00,199999,Booked
@@ -175,7 +181,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6930_21:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,21:00 - 22:00,199999,Available
 2274_6930_22:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,22:00 - 23:00,199999,Available
 2274_6930_23:00,2274,Far East Padel - HERO,6930,Court - One,2026-11-07,23:00 - 00:00,199999,Available
-2274_6933_06:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,06:00 - 07:00,199999,Available
 2274_6933_07:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,07:00 - 08:00,199999,Booked
 2274_6933_08:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,08:00 - 09:00,199999,Booked
 2274_6933_09:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,09:00 - 10:00,199999,Booked
@@ -193,7 +198,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2274_6933_21:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,21:00 - 22:00,199999,Available
 2274_6933_22:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,22:00 - 23:00,199999,Available
 2274_6933_23:00,2274,Far East Padel - HERO,6933,Court - Two,2026-11-07,23:00 - 00:00,199999,Available
-2274_6929_06:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-07,06:00 - 07:00,199999,Available
 2274_6929_07:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-07,07:00 - 08:00,199999,Booked
 2274_6929_08:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-07,08:00 - 09:00,199999,Booked
 2274_6929_09:00,2274,Far East Padel - HERO,6929,Court - Three,2026-11-07,09:00 - 10:00,199999,Booked
@@ -977,7 +981,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1389_6533_20:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-07,20:00 - 21:00,170000,Available
 1389_6533_21:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-07,21:00 - 22:00,140000,Available
 1389_6533_22:00,1389,Goedang Sports Centre,6533,court 4 Padel,2026-11-07,22:00 - 23:00,140000,Available
-209_240_05:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,05:00 - 06:00,125000,Available
 209_240_06:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,06:00 - 07:00,125000,Available
 209_240_07:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,07:00 - 08:00,125000,Available
 209_240_08:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,08:00 - 09:00,125000,Available
@@ -996,7 +999,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_240_21:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,21:00 - 22:00,125000,Available
 209_240_22:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,22:00 - 23:00,125000,Available
 209_240_23:00,209,Wins Arena PG - Padel,240,Court A - Panoramic,2026-11-07,23:00 - 00:00,125000,Available
-209_3705_05:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
 209_3705_06:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,06:00 - 07:00,125000,Available
 209_3705_07:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,07:00 - 08:00,125000,Available
 209_3705_08:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,08:00 - 09:00,125000,Booked
@@ -1015,7 +1017,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3705_21:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,21:00 - 22:00,125000,Available
 209_3705_22:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,22:00 - 23:00,125000,Available
 209_3705_23:00,209,Wins Arena PG - Padel,3705,Court B - Super Panoramic,2026-11-07,23:00 - 00:00,125000,Available
-209_3706_05:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
 209_3706_06:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,06:00 - 07:00,125000,Available
 209_3706_07:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,07:00 - 08:00,125000,Available
 209_3706_08:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,08:00 - 09:00,125000,Booked
@@ -1034,7 +1035,6 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 209_3706_21:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,21:00 - 22:00,125000,Available
 209_3706_22:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,22:00 - 23:00,125000,Available
 209_3706_23:00,209,Wins Arena PG - Padel,3706,Court C - Super Panoramic,2026-11-07,23:00 - 00:00,125000,Available
-209_3707_05:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-07,05:00 - 06:00,125000,Available
 209_3707_06:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-07,06:00 - 07:00,125000,Available
 209_3707_07:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-07,07:00 - 08:00,125000,Available
 209_3707_08:00,209,Wins Arena PG - Padel,3707,Court D - Super Panoramic,2026-11-07,08:00 - 09:00,125000,Available
@@ -1932,9 +1932,9 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2456_5220_07:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,07:00 - 08:00,480000,Booked
 2456_5220_08:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,08:00 - 09:00,480000,Booked
 2456_5220_09:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,09:00 - 10:00,480000,Booked
-2456_5220_10:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,10:00 - 11:00,480000,Booked
-2456_5220_11:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,11:00 - 12:00,480000,Booked
-2456_5220_12:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,12:00 - 13:00,480000,Booked
+2456_5220_10:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,10:00 - 11:00,480000,Available
+2456_5220_11:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,11:00 - 12:00,480000,Available
+2456_5220_12:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,12:00 - 13:00,480000,Available
 2456_5220_13:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,13:00 - 14:00,480000,Available
 2456_5220_14:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,14:00 - 15:00,480000,Available
 2456_5220_15:00,2456,PADEL 5IVE,5220,Court B,2026-11-07,15:00 - 16:00,480000,Booked
